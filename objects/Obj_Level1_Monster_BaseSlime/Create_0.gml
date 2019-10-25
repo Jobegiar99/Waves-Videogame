@@ -8,3 +8,5 @@ obj_level1_monster_baseSlime_movement_SpawnLeft=true;
 
 //controls if the slime will be walking or attacking the player.
 obj_level1_monster_baseSlime_stat_nearAltar=false;
+obj_level1_monster_baseSlime_logic_AttackActivated=false;
+obj_level1_monster_baseSlime_logic_alive=true;

@@ -1,8 +1,8 @@
 {
-    "id": "caa9e045-4cdb-4ea4-8c65-613db97d3e36",
+    "id": "c8b596b5-7ab7-4bbe-8e12-a3fe863349a0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player_weapon",
+    "name": "obj_money",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "23809ef9-36d7-4e5b-b193-a5779bc4ec48",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

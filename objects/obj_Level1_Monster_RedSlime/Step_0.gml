@@ -3,7 +3,8 @@
 
 // Inherit the parent event
 event_inherited();
+
 if(obj_level1_monster_baseSlime_stat_nearAltar){
-	sprite_index=spr_Level1_Enemy_GreenSlime_Attacking	
+	sprite_index=spr_Level1_Enemy_RedSlime_Attacking;
 	if(obj_level1_monster_baseSlime_movement_SpawnLeft) image_xscale=-1;
 }
