@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "7cf3f91f-9103-416b-9032-b20afe34952b",
+            "Value": {
+                "id": "c81b0ff6-a75e-4b3b-9357-59b0d4f89d3a",
+                "resourcePath": "extensions\\extension_js_calculateKnockback\\extension_js_calculateKnockback.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
             "Key": "7cf76e7a-b5c6-4738-b8fe-dc503ad0de34",
             "Value": {
                 "id": "74556a2d-b99d-4166-af00-b20ed91acd40",
@@ -519,6 +527,14 @@
             }
         },
         {
+            "Key": "d483a254-0744-45a7-8521-70d72bc3ae4e",
+            "Value": {
+                "id": "f364ad06-9625-414a-9435-9b1508ff4b7c",
+                "resourcePath": "views\\d483a254-0744-45a7-8521-70d72bc3ae4e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d7a0a33b-2b50-487f-ade3-1e94cddbae80",
             "Value": {
                 "id": "822f25bb-9acf-4ff5-8a6e-3523ffd49acb",
@@ -607,6 +623,14 @@
             }
         },
         {
+            "Key": "e66a6d87-cd0d-40a4-b970-d11036bd4ad7",
+            "Value": {
+                "id": "190bbe6d-220e-4764-afae-70ff8ff05415",
+                "resourcePath": "scripts\\scr_formula_enemyKnockback\\scr_formula_enemyKnockback.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ecc14c67-693f-4b2c-9547-aa793b8f0690",
             "Value": {
                 "id": "45f47b6b-ee03-419c-867b-c01269e6f422",
@@ -632,7 +656,7 @@
         }
     ],
     "script_order": [
-        
+        "e66a6d87-cd0d-40a4-b970-d11036bd4ad7"
     ],
     "tutorial": ""
 }
