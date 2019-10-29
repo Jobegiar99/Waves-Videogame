@@ -5,6 +5,5 @@
 event_inherited();
 if(obj_level1_monster_baseSlime_logic_alive)
 	sprite_index=spr_Level1_Enemy_GreenSlime_Damaged;
-else
+else 
 	sprite_index=spr_Level1_Enemy_GreenSlime_Death;
-alarm[2]=60;
