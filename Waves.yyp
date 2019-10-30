@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "547a6058-341c-46eb-ad6e-164776c9b7de",
+            "Value": {
+                "id": "3f726f24-abd3-49f2-901d-c530fe8ddde9",
+                "resourcePath": "sprites\\spr_level1_SmallRedDemon_death\\spr_level1_SmallRedDemon_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "625147d4-9fd5-443c-af27-c1dcf0722a25",
             "Value": {
                 "id": "5d81b276-c9b0-4f0f-b89a-9657f6dfb7e1",
@@ -263,10 +271,26 @@
             }
         },
         {
+            "Key": "8206dbbb-f40e-4ebe-8b9f-d9312cb08720",
+            "Value": {
+                "id": "78bf5ace-dfc6-4d1c-b1ed-684db510aec8",
+                "resourcePath": "views\\8206dbbb-f40e-4ebe-8b9f-d9312cb08720.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "872ca8a3-fe68-4878-8265-f1b8d8681dc4",
             "Value": {
                 "id": "9bc50289-2d19-46bc-a944-509c54110fdb",
                 "resourcePath": "sprites\\sprite_mainMenu_UserInterface_Button\\sprite_mainMenu_UserInterface_Button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "887c2767-50e7-4480-abb2-fdcb1d02c135",
+            "Value": {
+                "id": "c257f579-2988-4bef-9a3c-2e484e99f0d6",
+                "resourcePath": "sprites\\spr_level1_SmallRedDemon_damaged\\spr_level1_SmallRedDemon_damaged.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -395,6 +419,14 @@
             "Value": {
                 "id": "2bd9e1f5-6200-4e7f-9b5e-9333fe6fab0c",
                 "resourcePath": "sprites\\spr_Level1_Enemy_GreenSlime_Damaged\\spr_Level1_Enemy_GreenSlime_Damaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0a97c52-5713-485f-845a-48f24b1b2579",
+            "Value": {
+                "id": "639dee50-09f3-4231-af6a-7df5f1fb64cf",
+                "resourcePath": "sprites\\spr_level1_SmallRedDemon_attacking\\spr_level1_SmallRedDemon_attacking.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -631,6 +663,14 @@
             }
         },
         {
+            "Key": "eb3bbb48-e39f-43ee-bde2-315c79eac003",
+            "Value": {
+                "id": "a5820ee2-0af1-4700-84f8-8db769191ea2",
+                "resourcePath": "scripts\\scr_formula_returnToNormalStateFromKnockback\\scr_formula_returnToNormalStateFromKnockback.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ecc14c67-693f-4b2c-9547-aa793b8f0690",
             "Value": {
                 "id": "45f47b6b-ee03-419c-867b-c01269e6f422",
@@ -653,10 +693,19 @@
                 "resourcePath": "sprites\\spr_Level1_Enemy_GreenSlime_Attacking\\spr_Level1_Enemy_GreenSlime_Attacking.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fa7222b0-98de-4280-9ee1-935ef89a8d54",
+            "Value": {
+                "id": "144a7120-a9b6-4fcc-a395-a4ad81eafb82",
+                "resourcePath": "objects\\obj_level1_monster_smallRedDemon\\obj_level1_monster_smallRedDemon.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        "e66a6d87-cd0d-40a4-b970-d11036bd4ad7"
+        "e66a6d87-cd0d-40a4-b970-d11036bd4ad7",
+        "eb3bbb48-e39f-43ee-bde2-315c79eac003"
     ],
     "tutorial": ""
 }
