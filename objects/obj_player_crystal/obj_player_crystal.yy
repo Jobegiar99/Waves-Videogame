@@ -15,23 +15,33 @@
             "m_owner": "5451c5d8-72b0-4d9b-9dd2-f7ac500c82df"
         },
         {
-            "id": "8772665f-3cea-4ba0-9296-cd9e87d8d48e",
+            "id": "2acfbb6c-2402-45c5-92bb-0fe72b5c8781",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
+            "enumb": 53,
             "eventtype": 6,
             "m_owner": "5451c5d8-72b0-4d9b-9dd2-f7ac500c82df"
         },
         {
-            "id": "9418ddd2-8024-43a7-ac54-89aa84bdc0d1",
+            "id": "5c6a632c-e1b6-4e41-a916-df00232988fd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
+            "eventtype": 8,
+            "m_owner": "5451c5d8-72b0-4d9b-9dd2-f7ac500c82df"
+        },
+        {
+            "id": "25cdbb70-383a-49b2-ac17-bcdbf995bf2a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "5451c5d8-72b0-4d9b-9dd2-f7ac500c82df"
         }
     ],
@@ -51,7 +61,64 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "c716f883-600c-4b10-a3ca-c77063cd32cb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "player_stat_damage",
+            "varType": 1
+        },
+        {
+            "id": "1e2a704e-1268-4a02-a955-ed394930c1e3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "60",
+            "varName": "player_stat_cooldown",
+            "varType": 1
+        },
+        {
+            "id": "f7d56eda-5315-4421-bfe3-b5cff3750909",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "15",
+            "varName": "player_stat_knockback",
+            "varType": 1
+        },
+        {
+            "id": "850257ca-23f3-490b-a48f-2a1b858ffb67",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "player_logic_canAttack",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "c6f55a23-ac0d-461a-9210-64e28ea8786a",
     "visible": true

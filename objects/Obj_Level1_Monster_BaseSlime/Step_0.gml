@@ -1,11 +1,30 @@
-/// @description Controls if the slime will be moving or attacking
+/// @description check if slime can attack the player
 // You can write your code in this editor
-if(obj_level1_monster_baseSlime_logic_alive){
-	if(obj_level1_monster_baseSlime_stat_nearAltar){
-		speed=0;
-		//set on the object the index of the attacking animation
-	}
-	obj_level1_monster_baseSlime_stat_nearAltar=(distance_to_object(obj_altar)<=1) ? true: false;
-	image_xscale=(obj_level1_monster_baseSlime_movement_SpawnLeft) ? 1:-1;
-}else speed=0;
 
+level1_slime_logic_attacking = ( distance_to_object(obj_altar) <2 );
+
+if (level1_slime_logic_attacking and !level1_slime_logic_damaged){
+	
+	speed = 0;
+	switch ( level1_slime_stat_attack ){
+		
+		case 1:
+		
+			sprite_index = spr_Level1_Enemy_GreenSlime_Attacking;
+			break;
+			
+		case 3:
+		
+			sprite_index = spr_Level1_Enemy_BlueSlime_Attacking;
+			break;
+		
+		case 5:
+		
+			sprite_index = spr_Level1_Enemy_RedSlime_Attacking;
+			break;
+		
+	}
+	
+	image_xscale = ( x < obj_altar.x ) ? -1 : 1;
+	
+}

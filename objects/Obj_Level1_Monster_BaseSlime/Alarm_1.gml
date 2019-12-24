@@ -1,2 +1,3 @@
-/// @description Change sprite to walking or attacking
+/// @description die
 // You can write your code in this editor
+instance_destroy();
