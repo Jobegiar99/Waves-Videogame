@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-repeat(irandom(3)){
-	//instance_create_layer(x*(random_range(0.5,1),y*(random_range(0.5,1),DEFINE LAYER NAME, obj_money)";	
+repeat ( level1_slime_extra_goldDropped ){
+	
+	var temp_money = instance_create_layer(x,y,"Layer_Extra", obj_money);
+	temp_money.direction = irandom_range(65,135);
+
 }

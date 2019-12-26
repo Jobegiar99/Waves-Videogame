@@ -5,53 +5,63 @@
     "name": "obj_player_weapon",
     "eventList": [
         {
-            "id": "4464918f-dc35-4b7b-b2b8-c8f2a5506432",
+            "id": "3bf5c299-7488-4d2f-8886-095d2a207534",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
-            "eventtype": 5,
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
         },
         {
-            "id": "b1c75a52-662d-47cb-9183-be586182f10d",
+            "id": "8d7c99e4-e2ed-4bd1-bd0c-9d7b46bf0535",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 5,
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
         },
         {
-            "id": "4ee7cb3a-245a-41f6-8420-41802b923a91",
+            "id": "4e65be42-30ff-458b-a755-c10da63b19fd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 9,
+            "enumb": 0,
+            "eventtype": 8,
             "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
         },
         {
-            "id": "ab9b85f0-cac5-4cdb-af71-bb4c2f674d94",
+            "id": "448c8c40-7dac-44eb-9fc1-6c03d8e4591e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
-            "eventtype": 5,
+            "collisionObjectId": "2012250c-706d-4a0b-8194-aa5af10d99ad",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
         },
         {
-            "id": "2c0f6890-cc69-4680-88e4-fafd76ba542f",
+            "id": "360af1a7-5d2d-44e9-8a82-3c58b40ddf07",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 40,
-            "eventtype": 5,
+            "collisionObjectId": "6b289efb-8a7c-48d4-b545-bee2b8af80aa",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
+        },
+        {
+            "id": "1377d806-79d5-4625-ae70-2cd6c843b2e4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "fa7222b0-98de-4280-9ee1-935ef89a8d54",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
         }
     ],
@@ -68,11 +78,63 @@
     "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
-    "physicsShape": 1,
-    "physicsShapePoints": null,
+    "physicsShape": 2,
+    "physicsShapePoints": [
+        {
+            "id": "c9c873db-ff9e-4c17-b28e-f2091b674930",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": -0.929107666,
+            "y": 63
+        },
+        {
+            "id": "a61dd902-4c86-447e-9d3e-b6bd40bbb8ba",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 43.4709167,
+            "y": 43.40001
+        },
+        {
+            "id": "9dec96d5-56fc-40d2-a90a-16df1c618082",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 75.26003,
+            "y": 42.752327
+        },
+        {
+            "id": "6eca844a-e3ac-4283-8a0a-32a48f26ac7a",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 95.59337,
+            "y": 58.4562378
+        },
+        {
+            "id": "b458631c-a1c5-4da5-8b50-c4a2346bf207",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 86.02725,
+            "y": 72.629425
+        },
+        {
+            "id": "e1962a49-cd1d-4535-b185-527f10083a24",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 75.044014,
+            "y": 82.13144
+        },
+        {
+            "id": "d0c06004-dd85-467b-b4af-c7a8e1a511f1",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 48.8205566,
+            "y": 82.24875
+        }
+    ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
-    "spriteId": "23809ef9-36d7-4e5b-b193-a5779bc4ec48",
+    "spriteId": "80942213-397e-42a5-8d3c-17d0089fb4e7",
     "visible": true
 }

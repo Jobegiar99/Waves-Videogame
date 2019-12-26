@@ -5,7 +5,7 @@
     "name": "obj_altar",
     "eventList": [
         {
-            "id": "6efece9c-e12f-43e7-bb6b-a2a0133a0a30",
+            "id": "f45b06a4-5ab9-4edf-b3bd-68b2e56e8d3e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "ab64a61a-1491-455f-8c22-f94d9d60b2df",
+    "spriteId": "a39a9f11-da4c-4c34-9d64-6663fc39c5b5",
     "visible": true
 }
