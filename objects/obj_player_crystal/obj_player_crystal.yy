@@ -43,6 +43,16 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "5451c5d8-72b0-4d9b-9dd2-f7ac500c82df"
+        },
+        {
+            "id": "575f817e-4d3d-41ac-920e-7e4c41a2b58d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "5451c5d8-72b0-4d9b-9dd2-f7ac500c82df"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -100,7 +110,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "15",
+            "value": "55",
             "varName": "player_stat_knockback",
             "varType": 1
         },
