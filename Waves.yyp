@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "08cb6b81-35f0-4cbe-a8fb-10b98887696e",
+            "Value": {
+                "id": "f79ef63c-3f73-4bd0-a1ae-086769df01c3",
+                "resourcePath": "views\\08cb6b81-35f0-4cbe-a8fb-10b98887696e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0d5a5c38-cc38-4cac-8214-66ce2c6daa66",
             "Value": {
                 "id": "02714267-72be-4d23-b483-a64b5980ad9b",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "1d8ccef2-c012-4b8a-87b5-1fe699519222",
+            "Value": {
+                "id": "37fd764f-20ac-471c-8a15-07a09cff0197",
+                "resourcePath": "views\\1d8ccef2-c012-4b8a-87b5-1fe699519222.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2012250c-706d-4a0b-8194-aa5af10d99ad",
             "Value": {
                 "id": "68437834-0863-4a6f-8af0-d0cf546e3b62",
@@ -108,6 +124,14 @@
                 "id": "ac4784ee-d87e-4a1a-b79d-224e8525f241",
                 "resourcePath": "sprites\\spr_Level1_Enemy_GreenSlime_Walking\\spr_Level1_Enemy_GreenSlime_Walking.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "28dcecff-1bbb-4cf9-952c-191cee21a9a0",
+            "Value": {
+                "id": "66e1ab1b-74ab-4d18-a91e-8854d4c5eb4d",
+                "resourcePath": "sounds\\snd_level1_gameplay\\snd_level1_gameplay.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -236,6 +260,14 @@
                 "id": "133435af-c7e2-49c6-a87c-d3a427e31ca6",
                 "resourcePath": "objects\\obj_level1_monster_smallZombie\\obj_level1_monster_smallZombie.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "52da23e7-5020-4ea5-873b-a6e00e4637ab",
+            "Value": {
+                "id": "98de13da-f83a-4536-8b87-814361cf098d",
+                "resourcePath": "scripts\\scr_formula_dropGold\\scr_formula_dropGold.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -375,14 +407,6 @@
             }
         },
         {
-            "Key": "7cf3f91f-9103-416b-9032-b20afe34952b",
-            "Value": {
-                "id": "c81b0ff6-a75e-4b3b-9357-59b0d4f89d3a",
-                "resourcePath": "extensions\\extension_js_calculateKnockback\\extension_js_calculateKnockback.yy",
-                "resourceType": "GMExtension"
-            }
-        },
-        {
             "Key": "7cf76e7a-b5c6-4738-b8fe-dc503ad0de34",
             "Value": {
                 "id": "74556a2d-b99d-4166-af00-b20ed91acd40",
@@ -460,6 +484,14 @@
                 "id": "e46d6cc1-8997-4828-aa24-1391d0853b05",
                 "resourcePath": "sprites\\spr_Level1_Enemy_BlueSlime_Damaged\\spr_Level1_Enemy_BlueSlime_Damaged.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b6dce3c-0dca-4d1d-a646-fa948a2aa93c",
+            "Value": {
+                "id": "6846ae70-c0fd-48bc-8ca6-4ffda0f507dc",
+                "resourcePath": "views\\8b6dce3c-0dca-4d1d-a646-fa948a2aa93c.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -556,6 +588,14 @@
                 "id": "0fbea5ff-0903-4df5-ba38-a2a40b0b1d4a",
                 "resourcePath": "views\\9f7f4ff7-9a22-406e-a1fb-b6f6a0d79efd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a034a3ba-4a5d-4ce2-9680-28e6acad459d",
+            "Value": {
+                "id": "3b074f13-c776-4b9c-a8fc-686deac9d259",
+                "resourcePath": "objects\\obj_level1_necromage\\obj_level1_necromage.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -807,6 +847,14 @@
             }
         },
         {
+            "Key": "de5e8b38-ead2-4d27-a62f-09ce73c3a0dd",
+            "Value": {
+                "id": "871ca05b-1ecb-4600-826c-f9bb3ed3850e",
+                "resourcePath": "sprites\\spr_level1_necromage_summon_minions\\spr_level1_necromage_summon_minions.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df7b0c7f-3fb0-4ae0-ba02-5784f126ef6f",
             "Value": {
                 "id": "96952b8b-9ac0-46fb-b6cf-62c98599fb86",
@@ -887,6 +935,14 @@
             }
         },
         {
+            "Key": "f5d7062d-5656-4dee-8fbd-531f60e63adb",
+            "Value": {
+                "id": "1a9f9c21-9117-46e7-8d28-60c97498b211",
+                "resourcePath": "views\\f5d7062d-5656-4dee-8fbd-531f60e63adb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f771ac75-d4c6-4b89-998f-7e9ac238e573",
             "Value": {
                 "id": "51a8934b-c246-4997-b477-80350efafd29",
@@ -922,6 +978,7 @@
     "script_order": [
         "e66a6d87-cd0d-40a4-b970-d11036bd4ad7",
         "44881e4d-d019-44ef-ae7d-b2571f65d651",
+        "52da23e7-5020-4ea5-873b-a6e00e4637ab",
         "f86405e2-4054-45ad-8a17-9ebe0fbb0a97"
     ],
     "tutorial": ""

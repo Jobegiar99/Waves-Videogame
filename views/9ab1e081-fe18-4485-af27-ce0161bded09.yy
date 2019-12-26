@@ -6,8 +6,8 @@
     "children": [
         "6b289efb-8a7c-48d4-b545-bee2b8af80aa",
         "6e506591-68d3-4a39-87d3-44813d3274d8",
-        "625147d4-9fd5-443c-af27-c1dcf0722a25",
-        "8c8ce7c4-c17a-435f-b210-2e817c165b28"
+        "8c8ce7c4-c17a-435f-b210-2e817c165b28",
+        "625147d4-9fd5-443c-af27-c1dcf0722a25"
     ],
     "filterType": "GMObject",
     "folderName": "Slimes",
