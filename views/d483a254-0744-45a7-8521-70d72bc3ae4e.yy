@@ -6,7 +6,8 @@
     "children": [
         "e66a6d87-cd0d-40a4-b970-d11036bd4ad7",
         "44881e4d-d019-44ef-ae7d-b2571f65d651",
-        "52da23e7-5020-4ea5-873b-a6e00e4637ab"
+        "52da23e7-5020-4ea5-873b-a6e00e4637ab",
+        "c7cd152b-60d7-42f9-9b2b-6bcbeccd2144"
     ],
     "filterType": "GMScript",
     "folderName": "formulas",

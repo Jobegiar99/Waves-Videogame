@@ -127,6 +127,20 @@
             "value": "True",
             "varName": "player_logic_canAttack",
             "varType": 3
+        },
+        {
+            "id": "61026701-00f4-42b0-aa9c-fed88f2e17f3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "player_stat_money",
+            "varType": 1
         }
     ],
     "solid": false,
