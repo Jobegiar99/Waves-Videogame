@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1a64d5e8-b336-45d2-ae79-431a810d448d",
+            "Value": {
+                "id": "b5bb4600-9436-4250-b580-76281688b8ba",
+                "resourcePath": "sprites\\spr_level1_skull_red\\spr_level1_skull_red.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1bcb86b8-3ad9-4c5b-800b-85d55f692aec",
             "Value": {
                 "id": "cafafd2e-156f-476d-a6ac-bcc1b07751df",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "4bf07b1a-f766-42e5-baa2-727f7bef3f10",
+            "Value": {
+                "id": "5eb45988-f45e-471c-ba27-d715ebed64aa",
+                "resourcePath": "objects\\obj_level1_necromancer_red_skull\\obj_level1_necromancer_red_skull.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4c6cf31e-cd45-45c2-a217-814d0b8f2251",
             "Value": {
                 "id": "134aab15-582a-405d-a23e-424bf38de9af",
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "5471dcb7-c1f1-41f6-91cc-16cdf63078b0",
+            "Value": {
+                "id": "bb283a68-489b-4181-9792-1d3769d37d50",
+                "resourcePath": "sprites\\spr_level1_skull_purple_death\\spr_level1_skull_purple_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "547a6058-341c-46eb-ad6e-164776c9b7de",
             "Value": {
                 "id": "3f726f24-abd3-49f2-901d-c530fe8ddde9",
@@ -379,6 +403,14 @@
             "Value": {
                 "id": "5d81b276-c9b0-4f0f-b89a-9657f6dfb7e1",
                 "resourcePath": "objects\\obj_Level1_Monster_RedSlime\\obj_Level1_Monster_RedSlime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "63fc4753-dadc-4a0f-9a01-445e87045eb3",
+            "Value": {
+                "id": "e437f22f-c3fd-4f04-be2a-ec631ff44378",
+                "resourcePath": "objects\\obj_level1_necromancer_blue_skull\\obj_level1_necromancer_blue_skull.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -508,6 +540,14 @@
                 "id": "9dfd4dd4-476f-435c-b94b-74221d7e4463",
                 "resourcePath": "views\\7b53d9b4-a9a8-4841-a684-d13babd4be7a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c854daf-c3ab-4ab7-bb82-5cc8d8a9b245",
+            "Value": {
+                "id": "25090125-ab4e-47c3-9a01-5ac70a79421c",
+                "resourcePath": "sprites\\spr_level1_skull_red_death\\spr_level1_skull_red_death.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -799,6 +839,14 @@
             }
         },
         {
+            "Key": "b75c2384-fb1d-433c-9819-e3fcaeb008f5",
+            "Value": {
+                "id": "e85ec760-7576-44d4-b15a-187ca18c8a22",
+                "resourcePath": "sprites\\spr_level1_skull_purple\\spr_level1_skull_purple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8d20a23-5880-4010-b37b-ea964d43b4e3",
             "Value": {
                 "id": "878b49c3-392d-4e3b-ace6-3e15259c908c",
@@ -844,6 +892,14 @@
                 "id": "f9e3504a-7d9b-497a-8ff5-98222e3712bb",
                 "resourcePath": "views\\bcd09644-c03a-49e5-9d52-da55d3671b14.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "beaa7377-497b-453a-9003-5c2efc6ff07b",
+            "Value": {
+                "id": "2bfa7ea1-b87b-4201-a9a1-88a707c09e30",
+                "resourcePath": "objects\\obj_level1_necromancer_purple_skull\\obj_level1_necromancer_purple_skull.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -956,6 +1012,22 @@
                 "id": "939a004c-e3ca-4383-9d90-5326b950807f",
                 "resourcePath": "tilesets\\tileSet_MainMenu_MainMenuWoodEnvironment\\tileSet_MainMenu_MainMenuWoodEnvironment.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "cf66d7b0-536b-4911-8a01-c20672bf6534",
+            "Value": {
+                "id": "509f396b-47b2-475d-a57f-cb476f8aab8a",
+                "resourcePath": "views\\cf66d7b0-536b-4911-8a01-c20672bf6534.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cfb8469c-55e2-4316-b79b-e6f14b5940e0",
+            "Value": {
+                "id": "ed8154a2-5577-43fa-82d2-de880c7511dd",
+                "resourcePath": "views\\cfb8469c-55e2-4316-b79b-e6f14b5940e0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

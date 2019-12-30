@@ -41,13 +41,12 @@ if ( obj_level1_skull_logic_alive ) {
 							      physics_skull_radius, 
 							      physics_skull_period
 								 );
-	
 	}
 }
 
 
 if ( !obj_level1_skull_logic_alive ){
-	if ( image_number-1 == image_index ){
+	if ( image_index > image_number -10 ){
 		
 		instance_destroy();
 		
