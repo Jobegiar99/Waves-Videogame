@@ -11,18 +11,14 @@ if (sprite_index != spr_level1_SmallRedDemon_death){
 			scr_formula_enemyKnockback(obj_smallDemon_stat_knockbackResistance, obj_player_crystal.player_stat_knockback);
 		
 		}else{
-		
+			
+			obj_smallDemon_logic_alive = false;
 			sprite_index = spr_level1_SmallRedDemon_death;
 			speed = 0;
-			gravity = 0;
+			direction = 270;
 			alarm[1] = 57;
 		
-			repeat ( obj_smallDemon_extra_goldDropped){
-		
-				var temp_gold = instance_create_layer(x,y,"Layer_Extra",obj_money);
-				temp_gold.direction = irandom_range(45,135);
-		
-			}
+			scr_formula_dropGold(obj_smallDemon_extra_goldDropped );
 		}
 	}
 }

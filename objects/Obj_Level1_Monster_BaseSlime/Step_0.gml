@@ -12,8 +12,8 @@ if (level1_slime_logic_attacking and !level1_slime_logic_damaged){
 		if (! level1_slime_logic_dealDamage){
 			
 			alarm[2] = 6;
-			obj_altar.sprite_index = spr_player_altarDamaged;
 			level1_slime_logic_dealDamage = true;
+			scr_damage_player( level1_slime_stat_attack, false);
 			
 		}
 		
