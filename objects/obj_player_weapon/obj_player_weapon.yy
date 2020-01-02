@@ -83,6 +83,46 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
+        },
+        {
+            "id": "311a4d2d-bf54-49b6-a4db-b1a687e0f46c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "a034a3ba-4a5d-4ce2-9680-28e6acad459d",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
+        },
+        {
+            "id": "d0448a1b-5262-4e2d-9760-0b7e622127c6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "251db028-3500-4f99-b028-29aa9a4496bc",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
+        },
+        {
+            "id": "5ddec692-bcdf-489c-be3b-aa0a3bbae8d0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
+        },
+        {
+            "id": "d7c6319c-8189-48d1-886a-dd03a7ae91d6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "caa9e045-4cdb-4ea4-8c65-613db97d3e36"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -152,7 +192,48 @@
     ],
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "9268eb98-59cd-4950-8410-60bcf57798a8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "skilltree_damagePath_splitProjectile",
+            "varType": 3
+        },
+        {
+            "id": "2220bfde-9fb0-46c6-984b-22b1f2cb857c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "skilltree_damagePath_bumpProjectile",
+            "varType": 3
+        },
+        {
+            "id": "7a5bfca3-2b22-45b2-8628-055c34511fda",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "skilltree_damagePath_spawnProjectile",
+            "varType": 3
+        }
     ],
     "solid": false,
     "spriteId": "80942213-397e-42a5-8d3c-17d0089fb4e7",

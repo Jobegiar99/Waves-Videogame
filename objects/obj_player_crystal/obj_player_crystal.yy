@@ -82,7 +82,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1",
+            "value": "50",
             "varName": "player_stat_damage",
             "varType": 1
         },
@@ -141,6 +141,20 @@
             "value": "0",
             "varName": "player_stat_money",
             "varType": 1
+        },
+        {
+            "id": "bee27cf9-4215-4ca2-bf26-f71e4bce4b9e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "skilltree_damagePath_secondProjectile",
+            "varType": 3
         }
     ],
     "solid": false,

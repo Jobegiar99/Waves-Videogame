@@ -25,16 +25,6 @@
             "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
         },
         {
-            "id": "f8ab6863-cac0-4761-a206-571ae521685a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
-        },
-        {
             "id": "9966caeb-6686-49ed-9535-f32533ac186b",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -52,6 +42,46 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 2,
             "eventtype": 2,
+            "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
+        },
+        {
+            "id": "98580a3f-d183-485b-b47d-4576a30bfe11",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "caa9e045-4cdb-4ea4-8c65-613db97d3e36",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
+        },
+        {
+            "id": "13e31909-35ff-4684-9c4d-39520d8cba4e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
+        },
+        {
+            "id": "81aa6dd6-d389-4e1c-a956-9ac20d4afc6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
+            "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
+        },
+        {
+            "id": "eb4e21cd-b74f-4bfc-81ed-e1f88ae83b1c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
             "m_owner": "a034a3ba-4a5d-4ce2-9680-28e6acad459d"
         }
     ],
@@ -111,7 +141,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "obj_necromancer_summon_attack",
+            "varName": "obj_necromancer_logic_teleport",
             "varType": 3
         },
         {
@@ -197,6 +227,34 @@
             "value": "3",
             "varName": "obj_level1_necromancer_projectile_control",
             "varType": 1
+        },
+        {
+            "id": "0ea87300-9c85-406e-9986-bb59f9d4ae50",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "obj_level1_necromancer_summon_left",
+            "varType": 3
+        },
+        {
+            "id": "d84f98c8-0db1-425a-870f-c31f1e93a379",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "obj_level1_necromancer_logic_alive",
+            "varType": 3
         }
     ],
     "solid": false,

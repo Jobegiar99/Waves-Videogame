@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "10d78a27-4d36-4c83-8d44-12688d107ec6",
+            "Value": {
+                "id": "9c7a9c38-7ace-48ec-a9fe-51a8245c03d1",
+                "resourcePath": "sprites\\spr_level1_skeleton_damaged\\spr_level1_skeleton_damaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18abc644-fb85-4800-bdce-b67a09b6412b",
             "Value": {
                 "id": "7c059d45-a955-4dbe-b204-175b2432b1e4",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "251db028-3500-4f99-b028-29aa9a4496bc",
+            "Value": {
+                "id": "2dc530db-48ba-49c3-904f-16e4ad489860",
+                "resourcePath": "objects\\obj_level1_skeleton\\obj_level1_skeleton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "273d0183-ec12-43f4-9d7b-425e9ab15487",
             "Value": {
                 "id": "39029df5-596a-4b80-8663-90d5acaebb91",
@@ -164,6 +180,14 @@
                 "id": "2ef431f0-714a-4ee5-87dd-859cd996df1b",
                 "resourcePath": "sprites\\spr_level1_skull_blue_death\\spr_level1_skull_blue_death.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "28744cc7-93e9-4ada-a4ca-9078aebca668",
+            "Value": {
+                "id": "5890367b-1248-4eca-92dc-7e7e07433f2b",
+                "resourcePath": "views\\28744cc7-93e9-4ada-a4ca-9078aebca668.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -204,6 +228,14 @@
                 "id": "43eda532-fb2c-41b4-9c89-3bf952a8d534",
                 "resourcePath": "views\\327046b3-972f-42ce-a1c3-592f24410eb2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "340a3364-40b7-430a-8031-f1cb950ff011",
+            "Value": {
+                "id": "6347b9b9-6274-4ba1-a85e-f771c1121c86",
+                "resourcePath": "sprites\\spr_level1_necromancer_portal_still\\spr_level1_necromancer_portal_still.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -383,6 +415,14 @@
             }
         },
         {
+            "Key": "5aaad425-6d82-433c-a76e-98383200eced",
+            "Value": {
+                "id": "06a82ae7-9845-4684-8888-f402b02014e7",
+                "resourcePath": "sprites\\spr_level1_necromancer_portal_close\\spr_level1_necromancer_portal_close.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5c3af0fd-0316-4a05-aee6-d61fe29d2634",
             "Value": {
                 "id": "ca6aff38-c9e5-4cf1-8414-87424fa2bb81",
@@ -403,6 +443,14 @@
             "Value": {
                 "id": "5d81b276-c9b0-4f0f-b89a-9657f6dfb7e1",
                 "resourcePath": "objects\\obj_Level1_Monster_RedSlime\\obj_Level1_Monster_RedSlime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "631b8b29-5e6d-4936-8d38-795e64c8dff5",
+            "Value": {
+                "id": "a905e367-1524-49db-8d94-d0aeb179e3d5",
+                "resourcePath": "objects\\obj_level1_necroportal\\obj_level1_necroportal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -444,6 +492,14 @@
                 "id": "ed884828-2e3a-4ba8-9ffb-e62222a83342",
                 "resourcePath": "views\\6ce8d6e4-bec5-4b8f-a280-34501feaf9d2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d49af03-5b5a-48d9-93d1-4dfd7c5714d0",
+            "Value": {
+                "id": "431af8b2-cb21-4c6b-8c4c-798e251909bc",
+                "resourcePath": "sprites\\spr_level1_skeleton_walk\\spr_level1_skeleton_walk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -500,6 +556,14 @@
                 "id": "37730fcc-7b29-4921-97ad-9067d82f0d37",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "77cdddec-dbef-4117-aab8-b134a587fc4b",
+            "Value": {
+                "id": "dd478d00-e6e9-45d6-b387-66e4ae2ad677",
+                "resourcePath": "sprites\\spr_level1_necromancer_death\\spr_level1_necromancer_death.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -799,6 +863,14 @@
             }
         },
         {
+            "Key": "ad0dec6f-fa52-4285-a31e-c73b888082af",
+            "Value": {
+                "id": "ff92a9f5-4c58-4a9e-a007-ea0571968863",
+                "resourcePath": "sprites\\spr_level1_skeleton_death\\spr_level1_skeleton_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b0a97c52-5713-485f-845a-48f24b1b2579",
             "Value": {
                 "id": "639dee50-09f3-4231-af6a-7df5f1fb64cf",
@@ -943,6 +1015,14 @@
             }
         },
         {
+            "Key": "c88cdea6-750c-4ce7-97f4-ff63570430cc",
+            "Value": {
+                "id": "48d51fde-e4f1-4ab4-a3bf-1961b2488ac1",
+                "resourcePath": "sprites\\spr_level1_necromancer_portal_init\\spr_level1_necromancer_portal_init.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c8edced9-db09-4582-98ad-7df2885d1f83",
             "Value": {
                 "id": "55547d38-28c1-4ccf-8068-087a2c26dfa7",
@@ -1028,6 +1108,14 @@
                 "id": "ed8154a2-5577-43fa-82d2-de880c7511dd",
                 "resourcePath": "views\\cfb8469c-55e2-4316-b79b-e6f14b5940e0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d134532d-a507-4af1-86ed-72907531cb73",
+            "Value": {
+                "id": "45ec0cab-cd40-467f-9391-4b1585cfe342",
+                "resourcePath": "sprites\\spr_level1_skeleton_attacking\\spr_level1_skeleton_attacking.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

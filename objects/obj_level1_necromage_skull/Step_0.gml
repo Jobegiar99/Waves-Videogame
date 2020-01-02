@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+if ( !obj_level1_necromancer.obj_level1_necromancer_logic_alive) instance_destroy();
 #region
 /*
 if ( obj_level1_skull_logic_rotating ){
