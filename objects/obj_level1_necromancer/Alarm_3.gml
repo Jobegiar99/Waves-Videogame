@@ -8,15 +8,15 @@ if ( obj_level1_necromancer_logic_alive ){
 	
 	if ( obj_necromancer_stat_hp <= 100){
 	
-		alarm[3] = 300;
+		alarm[3] = 120;
 		
 	}else if ( obj_necromancer_stat_hp <= 200){
 		
-		alarm[3] = 600;	
+		alarm[3] = 240;	
 		
 	}else if ( obj_necromancer_stat_hp <= 300){
 		
-		alarm[3] = 900;	
+		alarm[3] = 360;	
 		
 	}
 }

@@ -202,7 +202,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "True",
             "varName": "skilltree_damagePath_splitProjectile",
             "varType": 3
         },
@@ -216,7 +216,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "True",
             "varName": "skilltree_damagePath_bumpProjectile",
             "varType": 3
         },
@@ -230,7 +230,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "True",
             "varName": "skilltree_damagePath_spawnProjectile",
             "varType": 3
         }

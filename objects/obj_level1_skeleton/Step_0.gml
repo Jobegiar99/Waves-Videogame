@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 if ( obj_level1_skeleton_logic_alive ){
 	
 	obj_level1_skeleton_logic_attacking = ( distance_to_object(obj_altar) <2 );

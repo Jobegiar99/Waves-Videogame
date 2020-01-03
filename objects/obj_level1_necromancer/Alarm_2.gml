@@ -7,7 +7,7 @@ if ( obj_level1_necromancer_logic_alive ) {
 	sprite_index = spr_level1_necromancer_still;
 
 	var temp_attack = irandom_range (1,100);
-	if (temp_attack  > 10){
+	if (temp_attack  > 5){
 	
 	
 		sprite_index = spr_level1_necromancer_teleport;

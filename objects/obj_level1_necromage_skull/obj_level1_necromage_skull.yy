@@ -188,6 +188,20 @@
             "value": "True",
             "varName": "obj_level1_skull_logic_alive",
             "varType": 3
+        },
+        {
+            "id": "23352557-4207-4829-a134-cdc88b5bf93b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "obj_level1_skull_logic_aura",
+            "varType": 3
         }
     ],
     "solid": false,
