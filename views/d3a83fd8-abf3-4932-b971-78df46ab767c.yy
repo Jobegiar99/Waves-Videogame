@@ -15,7 +15,10 @@
         "fd5b7886-bea2-479a-9c82-bc52399ea79f",
         "59a10db3-0ce5-492e-b6a4-d3b9caff0a3f",
         "036c2d4f-e15c-4624-b490-1e57c530d8aa",
-        "bb6e786b-0917-46af-b343-ba5d8eb3e496"
+        "bb6e786b-0917-46af-b343-ba5d8eb3e496",
+        "8cd20257-a6e7-4319-8aa6-0b71cc1c1ade",
+        "dccb5ddd-9c55-4628-b641-3120bd246f82",
+        "8a7c1aeb-61e4-448d-b55d-f9e2e7a129c4"
     ],
     "filterType": "GMSprite",
     "folderName": "Store",

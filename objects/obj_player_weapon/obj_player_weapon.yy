@@ -202,9 +202,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "obj_stat_control.splitProjectile",
             "varName": "skilltree_damagePath_splitProjectile",
-            "varType": 3
+            "varType": 4
         },
         {
             "id": "2220bfde-9fb0-46c6-984b-22b1f2cb857c",
@@ -216,9 +216,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "obj_stat_control.bumpProjectile",
             "varName": "skilltree_damagePath_bumpProjectile",
-            "varType": 3
+            "varType": 4
         },
         {
             "id": "7a5bfca3-2b22-45b2-8628-055c34511fda",
@@ -230,9 +230,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "False",
+            "value": "obj_stat_control.spawnProjectile",
             "varName": "skilltree_damagePath_spawnProjectile",
-            "varType": 3
+            "varType": 4
         }
     ],
     "solid": false,

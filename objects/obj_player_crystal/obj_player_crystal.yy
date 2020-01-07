@@ -82,9 +82,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
+            "value": "obj_stat_control.damage",
             "varName": "player_stat_damage",
-            "varType": 1
+            "varType": 4
         },
         {
             "id": "1e2a704e-1268-4a02-a955-ed394930c1e3",
@@ -96,9 +96,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "20",
+            "value": "obj_stat_control.attack_speed",
             "varName": "player_stat_cooldown",
-            "varType": 1
+            "varType": 4
         },
         {
             "id": "f7d56eda-5315-4421-bfe3-b5cff3750909",
@@ -110,9 +110,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "55",
+            "value": "obj_stat_control.knockback",
             "varName": "player_stat_knockback",
-            "varType": 1
+            "varType": 4
         },
         {
             "id": "850257ca-23f3-490b-a48f-2a1b858ffb67",
@@ -129,20 +129,6 @@
             "varType": 3
         },
         {
-            "id": "61026701-00f4-42b0-aa9c-fed88f2e17f3",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "player_stat_money",
-            "varType": 1
-        },
-        {
             "id": "bee27cf9-4215-4ca2-bf26-f71e4bce4b9e",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -152,9 +138,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "True",
+            "value": "obj_stat_control.double",
             "varName": "skilltree_damagePath_secondProjectile",
-            "varType": 3
+            "varType": 4
+        },
+        {
+            "id": "ae26112c-c4af-46f2-b7dc-bd3c59413aa4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_stat_control.aura",
+            "varName": "skilltree_damagePath_aura",
+            "varType": 4
         }
     ],
     "solid": false,

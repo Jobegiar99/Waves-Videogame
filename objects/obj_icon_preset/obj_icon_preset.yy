@@ -5,26 +5,6 @@
     "name": "obj_icon_preset",
     "eventList": [
         {
-            "id": "52801a2d-76f0-4011-a385-a00a9cb93084",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
-            "eventtype": 6,
-            "m_owner": "d7eeed97-a586-4bd6-b8fe-f18f97bb4a55"
-        },
-        {
-            "id": "0153a624-1abc-49ce-857c-3ba3f2cff623",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 11,
-            "eventtype": 6,
-            "m_owner": "d7eeed97-a586-4bd6-b8fe-f18f97bb4a55"
-        },
-        {
             "id": "72d9474e-5939-4629-ba65-7d66730a58af",
             "modelName": "GMEvent",
             "mvc": "1.0",

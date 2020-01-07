@@ -17,7 +17,10 @@
         "494de915-f68e-43b1-9a78-d45c088cbd1c",
         "13e7d5e1-3744-4e9f-b35f-0d6509f8138e",
         "feac8fce-46d6-45d4-832e-25b75d5dc408",
-        "d7eeed97-a586-4bd6-b8fe-f18f97bb4a55"
+        "d7eeed97-a586-4bd6-b8fe-f18f97bb4a55",
+        "11b390d4-9264-4ac6-8e46-5a7e24560adc",
+        "aef4f7ea-9aee-418d-b621-b3cc3d63671b",
+        "1db6d242-e916-4327-8f4d-4c0a2f8a0b50"
     ],
     "filterType": "GMObject",
     "folderName": "Store",

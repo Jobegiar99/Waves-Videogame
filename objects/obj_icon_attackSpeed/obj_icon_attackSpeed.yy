@@ -5,16 +5,6 @@
     "name": "obj_icon_attackSpeed",
     "eventList": [
         {
-            "id": "b7f44984-1ea5-460b-9f02-e864c1312d81",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
-            "eventtype": 6,
-            "m_owner": "31f733a2-b7c0-4bcc-b506-880eb9197e53"
-        },
-        {
             "id": "38859c4b-0a0a-48d7-825a-443aa2a5dfed",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
+            "m_owner": "31f733a2-b7c0-4bcc-b506-880eb9197e53"
+        },
+        {
+            "id": "7219582a-1c3e-4a29-92fa-972243fb1c0e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "31f733a2-b7c0-4bcc-b506-880eb9197e53"
         }
     ],

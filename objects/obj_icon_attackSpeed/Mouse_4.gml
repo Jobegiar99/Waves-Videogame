@@ -25,10 +25,13 @@ if ( button_icon_selected ){
 	obj_icon_aura.image_alpha = 1;
 	obj_icon_spawn.image_alpha = 1;
 
+
 	
 }else{
 	
-	obj_button_purchase.button_purchase_speed	  = false;
+	obj_button_purchase.button_purchase_speed	  = false
+	image_alpha = 1;
+
 
 	
 }

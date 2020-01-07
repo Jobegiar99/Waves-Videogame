@@ -1,3 +1,1 @@
-se crashea porque no existe el projectil en el lugar,
-entonces tengo que cambiar todas las habilidades a un control externo
-para que ese sea el objeto que lleve los stats del jugador.
+DEBO QUITAR LAS ESTRELLAS CUANDO NO SE SELECCIONE UN STAT
