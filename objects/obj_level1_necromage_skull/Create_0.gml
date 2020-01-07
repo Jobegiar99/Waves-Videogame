@@ -11,3 +11,4 @@ physics_skull_period = obj_level1_skull_stat_time / 6;
 
 speed =  ( ( physics_skull_radius * pi *2 ) / physics_skull_period ) / 3;
 
+

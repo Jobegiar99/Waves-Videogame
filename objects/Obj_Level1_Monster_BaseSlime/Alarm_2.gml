@@ -4,7 +4,7 @@
 
 if (level1_slime_logic_dealDamage){
 	
-	lives -= level1_slime_stat_attack;
+	scr_damage_player( level1_slime_stat_attack, false);
 	level1_slime_logic_dealDamage = false;
 	
 }
