@@ -27,5 +27,6 @@ if (level1_slime_logic_attacking and !level1_slime_logic_damaged){
 }else{
 	
 	level1_slime_logic_dealDamage = false;
-
+	
+	gravity = 1;
 }

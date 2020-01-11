@@ -25,13 +25,15 @@ if ( button_icon_selected ){
 	obj_icon_aura.image_alpha = 1;
 	obj_icon_spawn.image_alpha = 1;
 
-
+	scr_show_stars( 6 );
+	scr_show_stars( obj_stat_control.knockback_level );
 
 	
 }else{
 	
 	obj_button_purchase.button_purchase_knockback = false;
 	image_alpha = 1;
-
+	scr_show_stars( 6 );
+	
 }
 

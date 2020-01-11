@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Level1_Monster_RedSlime",
     "eventList": [
-        
+        {
+            "id": "9c41a97c-5295-4979-b7f0-85d5e8a18b65",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "625147d4-9fd5-443c-af27-c1dcf0722a25"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

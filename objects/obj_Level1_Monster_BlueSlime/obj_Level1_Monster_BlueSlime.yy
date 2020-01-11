@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Level1_Monster_BlueSlime",
     "eventList": [
-        
+        {
+            "id": "85500c81-d1f3-4678-85a0-362bacd82a89",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "8c8ce7c4-c17a-435f-b210-2e817c165b28"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

@@ -115,7 +115,35 @@
             "varType": 4
         },
         {
-            "id": "850257ca-23f3-490b-a48f-2a1b858ffb67",
+            "id": "0160cc01-ecd8-439c-a82e-1c9ce715560c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "skilltree_damagePath_secondProjectile",
+            "varType": 3
+        },
+        {
+            "id": "b839dad7-e26b-4256-a5be-5542f31ef986",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "skilltree_damagePath_aura",
+            "varType": 3
+        },
+        {
+            "id": "37d93aad-cb5d-4d14-a6f3-d3d9daedd6f4",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -127,34 +155,6 @@
             "value": "True",
             "varName": "player_logic_canAttack",
             "varType": 3
-        },
-        {
-            "id": "bee27cf9-4215-4ca2-bf26-f71e4bce4b9e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "obj_stat_control.double",
-            "varName": "skilltree_damagePath_secondProjectile",
-            "varType": 4
-        },
-        {
-            "id": "ae26112c-c4af-46f2-b7dc-bd3c59413aa4",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "obj_stat_control.aura",
-            "varName": "skilltree_damagePath_aura",
-            "varType": 4
         }
     ],
     "solid": false,

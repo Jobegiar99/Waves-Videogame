@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Level1_Monster_GreenSlime",
     "eventList": [
-        
+        {
+            "id": "7b1d6b20-eae1-40bb-a9f4-d8131c471ac0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6e506591-68d3-4a39-87d3-44813d3274d8"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
