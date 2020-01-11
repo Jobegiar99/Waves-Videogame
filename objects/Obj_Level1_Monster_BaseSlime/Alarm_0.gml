@@ -1,7 +1,6 @@
 /// @description return to normal stat after knockback
 // You can write your code in this editor
 
-speed = level1_slime_stat_speed/10;
 direction = point_direction(x,y,obj_altar.x,obj_altar.y);
 level1_slime_logic_damaged = false;
 

@@ -4,7 +4,7 @@ draw_set_font(font_player_ui);
 draw_set_color(c_white);
 
 var temp_string_gold = "";
-var player_gold = obj_player_crystal.player_stat_money;
+var player_gold = obj_stat_control.money;
 
 if (player_gold >= 1000){
 	
@@ -24,4 +24,4 @@ if (player_gold >= 1000){
 	
 }else temp_string_gold = "0000";
 
-draw_text(x+350,y+25,temp_string_gold);
+draw_text(x-50,y-5,temp_string_gold);

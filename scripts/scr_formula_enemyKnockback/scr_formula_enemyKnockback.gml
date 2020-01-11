@@ -6,7 +6,7 @@
 argument_enemy_knockbackResistance = argument0;
 argument_player_knockback_force = argument1;
 
-var temp_alarm_cooldown_control = (argument_player_knockback_force / 10 ) * 5;
+var temp_alarm_cooldown_control = ( (argument_player_knockback_force) / 10 ) * 5;
 var temp_x = (argument_player_knockback_force - argument_enemy_knockbackResistance > 0 ) ? argument_player_knockback_force - argument_enemy_knockbackResistance : 0;
 if ( temp_x != 0){
 	speed = sqrt ( 144 + sqr(temp_x) )/10;

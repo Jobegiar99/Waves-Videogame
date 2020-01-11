@@ -33,27 +33,9 @@ if (level1_slime_logic_alive){
 		
 	}else{
 		
-		var tempVar_knockbackForce = obj_player_crystal.player_stat_knockback;
-		scr_formula_enemyKnockback(level1_slime_stat_knockbackResistance,tempVar_knockbackForce);
+		var distance =abs( ( obj_stat_control.knockback / 5 ) - level1_slime_stat_knockbackResistance );
+		x += (x < obj_altar.x ) ? -distance : distance;
+		alarm[0] = 1;
 		
-		
-		switch ( level1_slime_stat_attack ){
-		
-			case 1:
-		
-				sprite_index = spr_Level1_Enemy_GreenSlime_Damaged;
-				break;
-			
-			case 3:
-		
-				sprite_index = spr_Level1_Enemy_BlueSlime_Damaged;
-				break;
-		
-			case 5:
-		
-				sprite_index = spr_Level1_Enemy_RedSlime_Damaged;
-				break;
-		
-		}	
 	}
 }

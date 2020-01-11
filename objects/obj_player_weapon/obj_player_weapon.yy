@@ -193,7 +193,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "9268eb98-59cd-4950-8410-60bcf57798a8",
+            "id": "80edffc3-d390-4753-a24a-750c6864f936",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -202,12 +202,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "obj_stat_control.splitProjectile",
+            "value": "0",
             "varName": "skilltree_damagePath_splitProjectile",
-            "varType": 4
+            "varType": 3
         },
         {
-            "id": "2220bfde-9fb0-46c6-984b-22b1f2cb857c",
+            "id": "e41f30bd-2d71-4a1b-9e2c-a2dbbabeb9c8",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -216,12 +216,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "obj_stat_control.bumpProjectile",
+            "value": "False",
             "varName": "skilltree_damagePath_bumpProjectile",
-            "varType": 4
+            "varType": 3
         },
         {
-            "id": "7a5bfca3-2b22-45b2-8628-055c34511fda",
+            "id": "d96ca20f-61e5-4e9e-a617-3bce25a5fbd7",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -230,9 +230,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "obj_stat_control.spawnProjectile",
+            "value": "0",
             "varName": "skilltree_damagePath_spawnProjectile",
-            "varType": 4
+            "varType": 3
         }
     ],
     "solid": false,

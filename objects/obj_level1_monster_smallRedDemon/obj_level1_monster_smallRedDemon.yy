@@ -144,9 +144,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
+            "value": "3",
             "varName": "obj_smallDemon_stat_knockbackResistance",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "2263a06e-5d05-45ec-8b5b-763f54c20aee",

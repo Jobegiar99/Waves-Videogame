@@ -6,11 +6,12 @@ if (obj_level1_spawner_greenSlime > 0) {
 
 	if (obj_level1_spawner_left){
 	
-		instance_create_layer(-10,354,"Layer_Enemies",obj_Level1_Monster_GreenSlime);
+		instance_create_layer(-10,384,"Layer_Enemies",obj_Level1_Monster_GreenSlime);
 	
 	}else{
 		
-		instance_create_layer(650,354,"Layer_Enemies",obj_Level1_Monster_GreenSlime);
+		var slime =instance_create_layer(500,384,"Layer_Enemies",obj_Level1_Monster_GreenSlime);
+		slime.direction = 180;
 		
 	}
 	

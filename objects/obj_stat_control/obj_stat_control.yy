@@ -18,7 +18,7 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -128,7 +128,7 @@
             "resourceFilter": 1023,
             "value": "15",
             "varName": "knockback",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "98e86f2e-8f7c-43de-920f-73520a1fae6e",
@@ -198,6 +198,34 @@
             "resourceFilter": 1023,
             "value": "1",
             "varName": "attack_level",
+            "varType": 1
+        },
+        {
+            "id": "287167c9-0986-47c1-97ae-ea3c2b731213",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "round_number",
+            "varType": 1
+        },
+        {
+            "id": "6dc32b60-d1aa-45b0-9eb6-47749736ca75",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "hp",
             "varType": 1
         }
     ],
