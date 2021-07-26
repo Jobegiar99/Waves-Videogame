@@ -63,7 +63,7 @@ if ( obj_stat_control.money >= obj_store_money.cost ){
 		if ( lives != 100 ){
 			
 			bought = true;
-			
+			lives = 100;
 		}
 
 	}else if ( button_purchase_double  ){

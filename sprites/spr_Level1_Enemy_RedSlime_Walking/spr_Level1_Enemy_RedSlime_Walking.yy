@@ -1,136 +1,91 @@
 {
-    "id": "9a4f0f6c-04b7-460b-a531-1e4d270c2a47",
-    "modelName": "GMSprite",
-    "mvc": "1.12",
-    "name": "spr_Level1_Enemy_RedSlime_Walking",
-    "For3D": false,
-    "HTile": false,
-    "VTile": false,
-    "bbox_bottom": 40,
-    "bbox_left": 23,
-    "bbox_right": 42,
-    "bbox_top": 29,
-    "bboxmode": 0,
-    "colkind": 0,
-    "coltolerance": 0,
-    "edgeFiltering": false,
-    "frames": [
-        {
-            "id": "f83bedec-e6c5-40bc-aa5f-2414f0d5e2af",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "9a4f0f6c-04b7-460b-a531-1e4d270c2a47",
-            "compositeImage": {
-                "id": "e9b29750-c368-4f1f-a5f9-5630081c946f",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "f83bedec-e6c5-40bc-aa5f-2414f0d5e2af",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "536c5d99-bfb6-4c7e-b739-4c7867d2bb79",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "f83bedec-e6c5-40bc-aa5f-2414f0d5e2af",
-                    "LayerId": "74f104ed-0e14-4884-a0ec-fda84250e3dd"
-                }
-            ]
-        },
-        {
-            "id": "e74b1997-8e5e-44d0-a548-5d72160c4ca7",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "9a4f0f6c-04b7-460b-a531-1e4d270c2a47",
-            "compositeImage": {
-                "id": "84d73fd8-2530-4710-bcea-7d7bc34aeee4",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "e74b1997-8e5e-44d0-a548-5d72160c4ca7",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "ea384485-86d3-4e08-9d63-b6acb1d72df3",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "e74b1997-8e5e-44d0-a548-5d72160c4ca7",
-                    "LayerId": "74f104ed-0e14-4884-a0ec-fda84250e3dd"
-                }
-            ]
-        },
-        {
-            "id": "82ad5a84-5c20-48a0-aea6-7c7bf4092610",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "9a4f0f6c-04b7-460b-a531-1e4d270c2a47",
-            "compositeImage": {
-                "id": "80cca64c-6a3b-4b31-8ca7-e6b06db3ff83",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "82ad5a84-5c20-48a0-aea6-7c7bf4092610",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "26bfc31f-7615-4204-93f3-86d431ca9719",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "82ad5a84-5c20-48a0-aea6-7c7bf4092610",
-                    "LayerId": "74f104ed-0e14-4884-a0ec-fda84250e3dd"
-                }
-            ]
-        },
-        {
-            "id": "c91997a9-bd29-435a-91e9-bfacf5726356",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "9a4f0f6c-04b7-460b-a531-1e4d270c2a47",
-            "compositeImage": {
-                "id": "67b1f389-2a95-4b18-8d97-41f97b2616d2",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c91997a9-bd29-435a-91e9-bfacf5726356",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "748ce8b5-fae2-4992-84e3-d2ba571bc4d0",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c91997a9-bd29-435a-91e9-bfacf5726356",
-                    "LayerId": "74f104ed-0e14-4884-a0ec-fda84250e3dd"
-                }
-            ]
-        }
-    ],
-    "gridX": 0,
-    "gridY": 0,
-    "height": 41,
-    "layers": [
-        {
-            "id": "74f104ed-0e14-4884-a0ec-fda84250e3dd",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "9a4f0f6c-04b7-460b-a531-1e4d270c2a47",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "default",
-            "opacity": 100,
-            "visible": true
-        }
-    ],
-    "origin": 9,
-    "originLocked": true,
-    "playbackSpeed": 8,
+  "bboxMode": 0,
+  "collisionKind": 4,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 23,
+  "bbox_right": 42,
+  "bbox_top": 29,
+  "bbox_bottom": 40,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 64,
+  "height": 41,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"f83bedec-e6c5-40bc-aa5f-2414f0d5e2af","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f83bedec-e6c5-40bc-aa5f-2414f0d5e2af","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":{"name":"74f104ed-0e14-4884-a0ec-fda84250e3dd","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Level1_Enemy_RedSlime_Walking","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"f83bedec-e6c5-40bc-aa5f-2414f0d5e2af","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e74b1997-8e5e-44d0-a548-5d72160c4ca7","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e74b1997-8e5e-44d0-a548-5d72160c4ca7","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":{"name":"74f104ed-0e14-4884-a0ec-fda84250e3dd","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Level1_Enemy_RedSlime_Walking","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"e74b1997-8e5e-44d0-a548-5d72160c4ca7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"82ad5a84-5c20-48a0-aea6-7c7bf4092610","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"82ad5a84-5c20-48a0-aea6-7c7bf4092610","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":{"name":"74f104ed-0e14-4884-a0ec-fda84250e3dd","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Level1_Enemy_RedSlime_Walking","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"82ad5a84-5c20-48a0-aea6-7c7bf4092610","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c91997a9-bd29-435a-91e9-bfacf5726356","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c91997a9-bd29-435a-91e9-bfacf5726356","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"LayerId":{"name":"74f104ed-0e14-4884-a0ec-fda84250e3dd","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Level1_Enemy_RedSlime_Walking","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","name":"c91997a9-bd29-435a-91e9-bfacf5726356","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_Level1_Enemy_RedSlime_Walking","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
-    "premultiplyAlpha": false,
-    "sepmasks": true,
-    "swatchColours": null,
-    "swfPrecision": 2.525,
-    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
-    "type": 0,
-    "width": 64,
-    "xorig": 32,
-    "yorig": 35
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 4.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"118f8e50-e511-4978-9ec6-b2cb29ec9638","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f83bedec-e6c5-40bc-aa5f-2414f0d5e2af","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6bdb4324-0501-42ba-b7bc-7231dc37d1f0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e74b1997-8e5e-44d0-a548-5d72160c4ca7","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8df23c00-730c-487b-95e2-603d1e6ec780","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"82ad5a84-5c20-48a0-aea6-7c7bf4092610","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"51b9d660-bb1d-402d-9de4-410f38cd40f3","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c91997a9-bd29-435a-91e9-bfacf5726356","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": true,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 32,
+    "yorigin": 35,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_Level1_Enemy_RedSlime_Walking","path":"sprites/spr_Level1_Enemy_RedSlime_Walking/spr_Level1_Enemy_RedSlime_Walking.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"74f104ed-0e14-4884-a0ec-fda84250e3dd","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Red Slime",
+    "path": "folders/Sprites/Level 1/Enemies/Slimes/Red Slime.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_Level1_Enemy_RedSlime_Walking",
+  "tags": [],
+  "resourceType": "GMSprite",
 }

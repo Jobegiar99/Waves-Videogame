@@ -37,7 +37,7 @@ if (player_logic_canAttack){
 	
 
 	
-	
+	image_alpha = 0.5;
 	player_logic_canAttack = false;
 	alarm[ 0 ] = player_stat_cooldown;
 	

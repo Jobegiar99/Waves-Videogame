@@ -52,7 +52,8 @@ if ( obj_level1_necromancer_logic_alive ){
 	#endregion
 
 }else{
-	
+	image_xscale += 0.1;
+	image_yscale += 0.1;
 	if ( image_index > image_number -10){
 		
 		instance_destroy();

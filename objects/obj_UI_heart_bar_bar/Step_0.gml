@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-image_yscale = lives/100;
+if ( lives > 0 ){
+	image_yscale = lives/100;
+}

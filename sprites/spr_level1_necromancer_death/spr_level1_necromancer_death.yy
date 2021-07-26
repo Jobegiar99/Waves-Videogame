@@ -1,3084 +1,627 @@
 {
-    "id": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-    "modelName": "GMSprite",
-    "mvc": "1.12",
-    "name": "spr_level1_necromancer_death",
-    "For3D": false,
-    "HTile": false,
-    "VTile": false,
-    "bbox_bottom": 0,
-    "bbox_left": 0,
-    "bbox_right": 0,
-    "bbox_top": 0,
-    "bboxmode": 0,
-    "colkind": 1,
-    "coltolerance": 255,
-    "edgeFiltering": false,
-    "frames": [
-        {
-            "id": "4d746de4-6b8e-4381-9365-13e6b36a6bf9",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "b79a2b53-718d-466a-9dd3-b60b4a6deace",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "4d746de4-6b8e-4381-9365-13e6b36a6bf9",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "56fc2cfb-7fea-4e8b-8a42-2cb7671b743e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "4d746de4-6b8e-4381-9365-13e6b36a6bf9",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "863ad92b-472b-4156-8e69-d96bd04ceab1",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "9d44d0b5-c6e6-42fe-88cd-3beffa88e9dd",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "863ad92b-472b-4156-8e69-d96bd04ceab1",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "7a0a2cfe-c32c-4ede-9968-8160f02f7657",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "863ad92b-472b-4156-8e69-d96bd04ceab1",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "2d770c32-900d-4e73-9c52-45c3f3fd61a2",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "9ec7c6f3-5e4e-43f1-9de7-04afaadd8063",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "62f98512-f1ba-40de-b050-df75394fc39b",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "157e5bdf-1022-4420-bed9-7d41efe73e78",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "62f98512-f1ba-40de-b050-df75394fc39b",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "134230b0-38d6-4340-b63b-4abf22a6547e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "62f98512-f1ba-40de-b050-df75394fc39b",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7651f701-f286-47eb-822c-0728fb0ace44",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a33575be-e277-4fcc-b8fc-67e259bdb835",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7651f701-f286-47eb-822c-0728fb0ace44",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "4bcfa156-a12e-4028-a569-3b2214ed1d89",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7651f701-f286-47eb-822c-0728fb0ace44",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "bff98546-fc11-4e17-bcf5-b24a3d32a403",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "1860caec-4df2-4df2-8a16-3ff7346d8ba9",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "bff98546-fc11-4e17-bcf5-b24a3d32a403",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f43647a6-7ea6-4688-a9e6-fe2a1b480d25",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "bff98546-fc11-4e17-bcf5-b24a3d32a403",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a3a99244-04a9-47a4-a17e-27d77a7f3de9",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "785eed4a-6f03-407d-9837-3cb603f33ffa",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a3a99244-04a9-47a4-a17e-27d77a7f3de9",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "423d110f-c1c8-4da8-99d0-dfe8aaf87583",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a3a99244-04a9-47a4-a17e-27d77a7f3de9",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "01723e59-e0aa-4535-9731-e9cc00b5ef2e",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "eb06541d-bed6-4a70-b5ff-13517f35ec49",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "01723e59-e0aa-4535-9731-e9cc00b5ef2e",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "84645d3e-2ee3-4241-9994-d0ed1ec1137a",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "01723e59-e0aa-4535-9731-e9cc00b5ef2e",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "579b3ac8-922b-4651-812b-99ea12d4f2ff",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "06bf5fc8-9ee4-4ff1-a65b-eb96c55b87e1",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "579b3ac8-922b-4651-812b-99ea12d4f2ff",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "3d5392cf-92ab-4e7a-bf7c-b133da6f3246",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "579b3ac8-922b-4651-812b-99ea12d4f2ff",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "677cf59a-f79a-4bfd-9bfd-56062d2292cd",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "42795375-e3f0-48d2-a7c6-f03d03d45cb8",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "677cf59a-f79a-4bfd-9bfd-56062d2292cd",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "22ce3a41-0af7-40ff-a64a-db4ad6976bd1",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "677cf59a-f79a-4bfd-9bfd-56062d2292cd",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "4b7af07e-f690-441a-9e70-0e553bddb77a",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "7d33324e-81b2-4e08-9038-aeffe6656d3e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "4b7af07e-f690-441a-9e70-0e553bddb77a",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "345675c7-9452-4077-9cb2-b65a44292a9d",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "4b7af07e-f690-441a-9e70-0e553bddb77a",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "6111d5d7-6cb5-4a59-b228-96a2d0f6ad88",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "9aef9c4c-aa22-4c4d-91c0-52a0ec1df9dc",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "6111d5d7-6cb5-4a59-b228-96a2d0f6ad88",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "0f1edade-9868-498b-9187-6bcd6534999e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "6111d5d7-6cb5-4a59-b228-96a2d0f6ad88",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "abfae4d3-9256-41f5-87fb-a85813b26a75",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "ac3752ba-56dd-4577-b999-b9d2b17d93c7",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "abfae4d3-9256-41f5-87fb-a85813b26a75",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f8d51a9a-70f6-4e61-b21e-02a1669fb9a5",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "abfae4d3-9256-41f5-87fb-a85813b26a75",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "219f454a-2bd8-47c0-a40e-f8b0e3b75eb6",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "d89e21a0-ec19-4a0d-aa23-05108c7b348b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "219f454a-2bd8-47c0-a40e-f8b0e3b75eb6",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "10c69cd3-e3d4-41a9-8435-8783fda5e0fe",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "219f454a-2bd8-47c0-a40e-f8b0e3b75eb6",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "b244057b-e407-4290-9745-6d2b4fcc9bbc",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "d208eb01-2b51-4d52-9335-62dec6ac9a28",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "b244057b-e407-4290-9745-6d2b4fcc9bbc",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e2053a5f-4f32-4de8-a456-3143d2cd0030",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "b244057b-e407-4290-9745-6d2b4fcc9bbc",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "0f2e4a78-b0eb-4722-8595-057397bfaf16",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5f178e3b-95d7-460b-aebb-b1f11e42ec70",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "0f2e4a78-b0eb-4722-8595-057397bfaf16",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b11105af-eff8-41c3-abc1-680f19e668ff",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "0f2e4a78-b0eb-4722-8595-057397bfaf16",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "8ba8dba1-05a1-4480-b716-280fadfafee7",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "45c436b6-c5bf-494b-93e5-4f8085181770",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "8ba8dba1-05a1-4480-b716-280fadfafee7",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d9d607fb-21c8-4f85-a456-447c56bc3000",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "8ba8dba1-05a1-4480-b716-280fadfafee7",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "48856fe6-52b5-498b-b7d7-a9c7f01ecb8c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "fcc61f7d-b7a8-4432-b18d-1a244caa9823",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "48856fe6-52b5-498b-b7d7-a9c7f01ecb8c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e1e4ed6f-9315-41a1-95a7-9494bf00f5e6",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "48856fe6-52b5-498b-b7d7-a9c7f01ecb8c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "8c52160a-ad13-43d7-81e7-8633edd8cd05",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "1638f767-02cf-40e9-b739-be4d9e8d4da7",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "8c52160a-ad13-43d7-81e7-8633edd8cd05",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a5d3f6a9-3f22-4f62-aaa2-0f5cafc0f1f6",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "8c52160a-ad13-43d7-81e7-8633edd8cd05",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "d16dae9a-9c56-43fc-b5a8-21d3dbf10de0",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "aaa178bd-98a3-4946-ac00-3843345ea2cf",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d16dae9a-9c56-43fc-b5a8-21d3dbf10de0",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e1470290-e018-417b-84c1-afe36d94c9bc",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d16dae9a-9c56-43fc-b5a8-21d3dbf10de0",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "3b97da91-0e88-4297-80f1-3eaec05f9fd1",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "38b67d43-0f1c-410e-8089-e576f595b7f2",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "3b97da91-0e88-4297-80f1-3eaec05f9fd1",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "95516162-b207-4c27-b2aa-80ddc6e8e767",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "3b97da91-0e88-4297-80f1-3eaec05f9fd1",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "b9eb9702-c55a-42d7-bccd-7947f275b5c8",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "40e515f2-55b7-4542-a79f-47deeae55ebc",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "b9eb9702-c55a-42d7-bccd-7947f275b5c8",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "8117b5ce-60ac-4e26-8ac3-081f0bd366b9",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "b9eb9702-c55a-42d7-bccd-7947f275b5c8",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "cd2e03e8-85da-410c-a599-989c09620afa",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "6adf2944-3716-4c13-88b5-d80b55ad0606",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "cd2e03e8-85da-410c-a599-989c09620afa",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f7df0315-233a-4474-8625-19a9b0d5c6b3",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "cd2e03e8-85da-410c-a599-989c09620afa",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "57fc05a3-5a5c-41b0-89d3-5b6bd7069064",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "f549186b-9659-46eb-9069-d1869ce45e20",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "57fc05a3-5a5c-41b0-89d3-5b6bd7069064",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f662a0e7-1eb8-4afb-a3fa-c1bf3e472372",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "57fc05a3-5a5c-41b0-89d3-5b6bd7069064",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "294ac78a-7cdd-44ae-a978-7751f07cb942",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "d694487b-e010-43db-8382-269f116692dc",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "294ac78a-7cdd-44ae-a978-7751f07cb942",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "cebad91f-14d2-4261-9d00-60dedef43483",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "294ac78a-7cdd-44ae-a978-7751f07cb942",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "99ca9deb-7b73-4c8e-b368-9f3faf530f19",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "cad64b49-5673-429e-a7cb-2f3df3040d1e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "99ca9deb-7b73-4c8e-b368-9f3faf530f19",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "1e0ae695-356d-4614-b45c-002a4517fb4d",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "99ca9deb-7b73-4c8e-b368-9f3faf530f19",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "98d39ac9-1afd-406a-8d4f-bfa5739382db",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a7f25df2-eb6c-4223-841f-8408234e56f5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "98d39ac9-1afd-406a-8d4f-bfa5739382db",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b806ef83-248b-46c0-9ca8-21aab08a6827",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "98d39ac9-1afd-406a-8d4f-bfa5739382db",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a3a4a332-a52c-46a1-aab4-4d82e438b253",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a6554ced-e40d-4771-87a2-940ac29f8634",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a3a4a332-a52c-46a1-aab4-4d82e438b253",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "847ce2de-5a34-4b86-981c-7f9c4f4d7e77",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a3a4a332-a52c-46a1-aab4-4d82e438b253",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "da4324ea-1b78-4649-91c0-4d768b91bf2c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "4247620e-0f77-47c8-9eab-3c1fb489acac",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "da4324ea-1b78-4649-91c0-4d768b91bf2c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "1909a92f-1863-46ed-a4f0-85bfb5a277c8",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "da4324ea-1b78-4649-91c0-4d768b91bf2c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7c914e17-e619-459e-a9a3-097e75bb6f60",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "b7a747b7-302a-4934-b545-6d88c0221823",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7c914e17-e619-459e-a9a3-097e75bb6f60",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e767581f-9857-48c6-9fe1-93a5479086e2",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7c914e17-e619-459e-a9a3-097e75bb6f60",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "157d0be3-80f3-470a-bf38-595c76fc0a4d",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "1c41c119-f73d-4a0f-bb3d-f656db7e7d65",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "157d0be3-80f3-470a-bf38-595c76fc0a4d",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "61e83b3e-45c6-4f36-b124-0b6c1369b2c2",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "157d0be3-80f3-470a-bf38-595c76fc0a4d",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "fb47c453-0fe1-45e8-9213-7388990dcd6c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "7d991bbb-607b-4d29-9631-d76caf0f16ae",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "fb47c453-0fe1-45e8-9213-7388990dcd6c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b9cbde5c-6832-4529-be28-163bb22ca4c3",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "fb47c453-0fe1-45e8-9213-7388990dcd6c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "67f761a9-1724-4874-82af-ba1b223b77fe",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "54d4d141-9501-4c47-a837-522bdd88ac8c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "67f761a9-1724-4874-82af-ba1b223b77fe",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "06594541-7783-4370-a0be-8874b7fb02f6",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "67f761a9-1724-4874-82af-ba1b223b77fe",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "89941706-bef4-40c7-8c7e-3f4dd6f85f3f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "e8291734-49f7-41f4-a782-3074ea9d6c12",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "89941706-bef4-40c7-8c7e-3f4dd6f85f3f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "13cb3f08-773c-45b6-bcf8-2284e868a554",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "89941706-bef4-40c7-8c7e-3f4dd6f85f3f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "9a6d7be9-6553-4616-8053-34eb47bc76c4",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "34435d32-32d3-44f8-a34f-611a9899732b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "9a6d7be9-6553-4616-8053-34eb47bc76c4",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "0ee86ce6-29a5-4407-9b21-71d80c68aa5f",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "9a6d7be9-6553-4616-8053-34eb47bc76c4",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "975aaec2-858e-4c40-984b-a204733e7633",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "290aa64c-8041-41a4-8728-b9e73cb8b68e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "975aaec2-858e-4c40-984b-a204733e7633",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "3bc92c68-3fc0-4550-bcf4-6c0089d6cbaf",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "975aaec2-858e-4c40-984b-a204733e7633",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "10e7d37d-dbbf-44d0-8e76-b4020622f0cf",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "e4af662e-afd6-405d-8beb-f7a531cb8cc1",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "10e7d37d-dbbf-44d0-8e76-b4020622f0cf",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "ce428bc7-e264-4b9a-97e7-e3943c091acf",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "10e7d37d-dbbf-44d0-8e76-b4020622f0cf",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "d806b364-c405-4804-9847-9ca3c28aa029",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "76f2de89-6e58-406a-b122-4de3a24de1b0",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d806b364-c405-4804-9847-9ca3c28aa029",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "674625a1-941a-42d3-b88c-61a41e3be13e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d806b364-c405-4804-9847-9ca3c28aa029",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "e681495d-ff0c-4060-8e83-fde188a76c80",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "13a66997-c0e4-4d51-bcad-46124fa0ddb2",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "e681495d-ff0c-4060-8e83-fde188a76c80",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "19a622b9-a0f2-4480-8386-f31af0eb4e58",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "e681495d-ff0c-4060-8e83-fde188a76c80",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "d938e0af-7893-42b1-9521-11c8af862113",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "0a19046e-c3a9-4a59-b631-64c52e937ae4",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d938e0af-7893-42b1-9521-11c8af862113",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "05728217-979d-4bbe-8a53-a511eeb8c03e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d938e0af-7893-42b1-9521-11c8af862113",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "03f4a695-80cd-4d03-b705-60f039dd8c10",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "78b7732c-74d3-4935-b9b8-21ce07adb1af",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "03f4a695-80cd-4d03-b705-60f039dd8c10",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "0d4e7f81-af81-459f-a4eb-06cf177262bb",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "03f4a695-80cd-4d03-b705-60f039dd8c10",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "09debf53-7a56-48d7-9eb5-0b0655ab84e8",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "8d01ad96-83be-42b6-8820-288d258910fb",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "09debf53-7a56-48d7-9eb5-0b0655ab84e8",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b01e9c38-3378-46d6-8a7a-7d1fe7aa579d",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "09debf53-7a56-48d7-9eb5-0b0655ab84e8",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "571fba72-a2d0-48ed-ab8f-3bc08ed8fded",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5c7d22de-de8e-4402-9bc4-88f36ac25074",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "571fba72-a2d0-48ed-ab8f-3bc08ed8fded",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "80023391-5554-46c3-bf6c-24aa8ec4d403",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "571fba72-a2d0-48ed-ab8f-3bc08ed8fded",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "5553b08f-c70d-4b99-8bd8-e9b72e533ac3",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "ed00dbf4-6b58-4adc-abb2-62cb2da008c3",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "5553b08f-c70d-4b99-8bd8-e9b72e533ac3",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "5dffb073-9d79-4d65-8f7c-db16441d5662",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "5553b08f-c70d-4b99-8bd8-e9b72e533ac3",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "1585c5bb-adcf-44e3-9146-7e44ffd31624",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "2cdaab15-87a5-4795-8467-d4f9310492c5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "1585c5bb-adcf-44e3-9146-7e44ffd31624",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "11c65c2f-b475-4bdc-9269-79d951bb6069",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "1585c5bb-adcf-44e3-9146-7e44ffd31624",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "13c94bc8-4a98-4ff1-bfb4-e6f73d034a51",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "73323a52-617c-4937-b3ab-6c0fb419b5f2",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "13c94bc8-4a98-4ff1-bfb4-e6f73d034a51",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f1695ded-7be7-4c54-aebf-2b04207a3d85",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "13c94bc8-4a98-4ff1-bfb4-e6f73d034a51",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7ebd624a-67af-4a35-93b0-0eb1b26cdba8",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "51663d85-fb8f-4c44-b878-ec778cf07be7",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7ebd624a-67af-4a35-93b0-0eb1b26cdba8",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "c8c1de98-8183-4c53-8b02-b7fe9e827d0e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7ebd624a-67af-4a35-93b0-0eb1b26cdba8",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "6e98813a-fed4-4ec8-8cc0-9c0b4f636304",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a6e7406d-e0ad-4167-8ad0-bf2682c00e5b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "6e98813a-fed4-4ec8-8cc0-9c0b4f636304",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "4aca2a12-fae9-4df6-b2e8-224c3ff70420",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "6e98813a-fed4-4ec8-8cc0-9c0b4f636304",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a03e1007-06fd-4c14-b8f3-9ed680538e3f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5bcb0037-e3b6-45d8-82bf-56c1615ab2da",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a03e1007-06fd-4c14-b8f3-9ed680538e3f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "386696b9-0f96-42b4-8a1d-58fa4dc3b25f",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a03e1007-06fd-4c14-b8f3-9ed680538e3f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "30a906cf-cf0a-4286-917a-e67b2ccf33d8",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "75e4dbb8-d2fd-4afe-8104-e6c707a5c18e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "30a906cf-cf0a-4286-917a-e67b2ccf33d8",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "8ce4b87c-389a-4e48-842b-758ac07b4a6d",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "30a906cf-cf0a-4286-917a-e67b2ccf33d8",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7e8e8d80-90ce-453f-a98b-9fb09d52bb7a",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "332f5d55-d100-452c-a267-9fde3de3e41d",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7e8e8d80-90ce-453f-a98b-9fb09d52bb7a",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "dfa98255-94e0-40e5-a287-1077d6dce34e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7e8e8d80-90ce-453f-a98b-9fb09d52bb7a",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "abf9e5e8-383a-498d-8968-db70a581109b",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "fd6d8443-dd9d-4b4d-a15d-aad445b99e57",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "abf9e5e8-383a-498d-8968-db70a581109b",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d56d7f6f-0bef-4551-bdb5-0afb3b7e2fbb",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "abf9e5e8-383a-498d-8968-db70a581109b",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "deae34b7-1170-40e5-8541-bacf5af61992",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "58f42aad-6d4f-4a51-8a43-38d477c61f42",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "deae34b7-1170-40e5-8541-bacf5af61992",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "34c97fdb-f7ae-4f70-a9ea-f9131fd812f0",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "deae34b7-1170-40e5-8541-bacf5af61992",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "448311c4-f878-4012-a2ed-6e6900c27797",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "85c2ff5b-92e3-48f4-85d7-98a82933d602",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "448311c4-f878-4012-a2ed-6e6900c27797",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "3caca821-0b21-4ca3-bc30-fc6f7d6821a5",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "448311c4-f878-4012-a2ed-6e6900c27797",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "d97d54e4-a1d1-4188-be7b-39eb0466c12c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "86bd3190-9159-4618-91f3-306b2e212bb5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d97d54e4-a1d1-4188-be7b-39eb0466c12c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "dab56707-fdb5-43a6-b7fa-335102794b60",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d97d54e4-a1d1-4188-be7b-39eb0466c12c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "df6df693-62ac-4b09-b535-731529211d0b",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "f4a8f466-dc1f-4fc1-8a95-516b31cf98c1",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "df6df693-62ac-4b09-b535-731529211d0b",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "9f40d95c-e563-450d-ba45-1c4d8f60da43",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "df6df693-62ac-4b09-b535-731529211d0b",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "0a935b18-e03a-4eeb-9a98-6229bf761c56",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "c24aee81-2f2e-404f-a6b3-99c8c7561a5a",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "0a935b18-e03a-4eeb-9a98-6229bf761c56",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "764dde77-eb6e-43d0-8391-b0f3d697653f",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "0a935b18-e03a-4eeb-9a98-6229bf761c56",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "def7e603-0bae-4043-8b1f-06f921458c0e",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "43fd99f9-0879-4d45-ab92-3b48c7793091",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "def7e603-0bae-4043-8b1f-06f921458c0e",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "8812309d-656c-463d-80da-01b6658b1bcb",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "def7e603-0bae-4043-8b1f-06f921458c0e",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "f9805752-8b24-40a6-91b5-0468abdce2ec",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a15d3391-4340-44a7-b8c8-d8f43e9d6abd",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a2a31c43-af5b-4288-894e-724c95612c8f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "8ce22bd3-dbb0-4652-9a7b-effdb52991f9",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a2a31c43-af5b-4288-894e-724c95612c8f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "774866a9-d193-4fec-a6e4-55818f8f4a3b",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a2a31c43-af5b-4288-894e-724c95612c8f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "b0c16ec0-b400-4b66-9043-8fe10d7a01d9",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "1e259a35-e5c8-41b4-bdf2-c36afe676ec9",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "1899e1ce-1e6d-4bae-bc91-03cb8158ab8c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "b53d9fba-dc3d-46c1-a8cc-d6dd5a9eee3f",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "1899e1ce-1e6d-4bae-bc91-03cb8158ab8c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "4b82866a-7210-474b-8e4e-1ff60c3ea7f5",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "1899e1ce-1e6d-4bae-bc91-03cb8158ab8c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "f0a982dc-bc19-4618-bf2f-a4b203b28b61",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "bfba4175-564a-4afc-9e94-26ce968c1849",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "03eb615e-8ba5-4701-83b5-a567c915bce8",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "40a2ba71-6741-495a-b00d-fa2dc49576b5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "03eb615e-8ba5-4701-83b5-a567c915bce8",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b23e62c2-56b5-4211-b6f7-20377b703f43",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "03eb615e-8ba5-4701-83b5-a567c915bce8",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "b2cae4f4-74a7-45f5-8b3d-5441127e306c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "d415e2fe-83c2-4940-a069-b5a408ccc971",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "b2cae4f4-74a7-45f5-8b3d-5441127e306c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d0ced329-7bb9-47f2-83a6-dc0a4b6370c5",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "b2cae4f4-74a7-45f5-8b3d-5441127e306c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "4b020804-7782-4c51-b7e6-888165fe0817",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "2e303c4e-b725-4fec-9a55-308fc8561d7e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "4b020804-7782-4c51-b7e6-888165fe0817",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a3ad4946-96e5-414e-8743-b0c663a3aeb3",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "4b020804-7782-4c51-b7e6-888165fe0817",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "aceaf56d-d30c-4732-b09e-453a6ec6cd88",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "b70b12c1-4c58-4bc3-b96c-7bc0a8648d27",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "aceaf56d-d30c-4732-b09e-453a6ec6cd88",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "247c2665-b1e1-46c7-9207-00eb836067a1",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "aceaf56d-d30c-4732-b09e-453a6ec6cd88",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "9f612fe9-5325-4813-8120-2036d9aadd47",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "f8096c28-e113-467f-be45-082cb76fda52",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "9f612fe9-5325-4813-8120-2036d9aadd47",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "1fc4aab2-deb1-4daa-9f43-742b7ea0a8e4",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "9f612fe9-5325-4813-8120-2036d9aadd47",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "75acd56f-9bf6-4566-b9aa-c1de9acc08de",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a6d8e3b4-7c80-4535-839f-48dbd6e7569c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "75acd56f-9bf6-4566-b9aa-c1de9acc08de",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "138688af-0c46-4b99-b949-313400b041da",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "75acd56f-9bf6-4566-b9aa-c1de9acc08de",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "2d308b40-97fd-4852-bbe5-c791547d24cb",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "69920124-2009-4922-9dd1-9137fb176d2a",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "2d308b40-97fd-4852-bbe5-c791547d24cb",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "eb328032-0716-4f7c-af6e-27e241b4182a",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2d308b40-97fd-4852-bbe5-c791547d24cb",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "5e879420-24ae-4e08-8310-697e5f98ffc3",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "be8d0ed3-112c-47ba-a8f2-382fabc53e51",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "5e879420-24ae-4e08-8310-697e5f98ffc3",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e9d06505-c686-4135-bf11-9dbced117321",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "5e879420-24ae-4e08-8310-697e5f98ffc3",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a54cf1f7-5c43-4698-922c-3102431a3d65",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "d64fad9c-e995-4aa1-b04a-0cce637fe33d",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a54cf1f7-5c43-4698-922c-3102431a3d65",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "22706a0b-1bb2-4d97-94de-43a382e3f3e1",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a54cf1f7-5c43-4698-922c-3102431a3d65",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "2bb55422-76ae-4098-917a-0349e88f4837",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "9fc46da9-a0c1-4542-8031-ca732da5134f",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "2bb55422-76ae-4098-917a-0349e88f4837",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d3c0c711-e8d7-465a-a4c7-08197d10e0b4",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2bb55422-76ae-4098-917a-0349e88f4837",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "be499831-c9f9-417a-ae38-05cea0f0a43c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "e1b74af7-f61d-448b-b2cc-cf9bb182c694",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "be499831-c9f9-417a-ae38-05cea0f0a43c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b10107e3-3765-4da2-9135-6f0ceedeb971",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "be499831-c9f9-417a-ae38-05cea0f0a43c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "c80badf3-1d1f-41c7-bf9b-7789b94acfed",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "98bff034-3a50-4daf-9215-ba7bdd6e3553",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c80badf3-1d1f-41c7-bf9b-7789b94acfed",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "4f467022-0c31-4ef6-b4ee-8345effaa619",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c80badf3-1d1f-41c7-bf9b-7789b94acfed",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "011f7747-6fab-4441-aca9-2a349433942b",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "ead69aa4-5c6c-4924-acd3-cb1ddc333802",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "011f7747-6fab-4441-aca9-2a349433942b",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "ded5ca44-49d3-4622-a906-e07e63112a0e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "011f7747-6fab-4441-aca9-2a349433942b",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "0345f8b8-3b5f-481c-aaec-e921f35d063b",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "86c86152-458e-4058-9ca1-ad04dfe045a7",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "0345f8b8-3b5f-481c-aaec-e921f35d063b",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "8ecfdc02-508d-4c21-8332-37d49f32c136",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "0345f8b8-3b5f-481c-aaec-e921f35d063b",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "bdce4587-a759-4ec4-a22a-04d270816b82",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "8826a73d-a2e8-4b00-b94c-b6c67a961bb4",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "bdce4587-a759-4ec4-a22a-04d270816b82",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "035042ef-7bce-40a2-bbb5-744d68361185",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "bdce4587-a759-4ec4-a22a-04d270816b82",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "217b9e68-a061-45ba-b484-35d5ca21848f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "69880301-cb95-47f4-ae9c-e9b12305e3bd",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "217b9e68-a061-45ba-b484-35d5ca21848f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a4af02b9-9cbd-4c6a-9eab-f69a58c133d3",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "217b9e68-a061-45ba-b484-35d5ca21848f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "50ed66d8-be8f-44ce-a0a1-a2fb05885a62",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "576725c4-c47a-4c66-9167-44d2ce0909f3",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "50ed66d8-be8f-44ce-a0a1-a2fb05885a62",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e2501e21-00af-4762-8bbd-ba6d8ce055e4",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "50ed66d8-be8f-44ce-a0a1-a2fb05885a62",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "6af355f8-ce5d-4fb5-87bd-b7bb9671504b",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "6203d2f8-e884-4d35-a93d-5cc759547ca7",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "6af355f8-ce5d-4fb5-87bd-b7bb9671504b",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "9e83e1f9-f62f-49e8-bd9f-e2e5cd1ed2e9",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "6af355f8-ce5d-4fb5-87bd-b7bb9671504b",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "fdd3c097-d238-414c-ae13-e0023d28307c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "980b0af8-f34a-4ad6-844b-3be8fc9857e6",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "fdd3c097-d238-414c-ae13-e0023d28307c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f8fe68e2-1a01-48d9-9285-2351ce24c027",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "fdd3c097-d238-414c-ae13-e0023d28307c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "96ee1299-525a-42ce-a31e-8e4df1be19e7",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "536cfe42-3cb9-4dc5-9706-3a59cac5c49c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "96ee1299-525a-42ce-a31e-8e4df1be19e7",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "65a117da-d8e8-49b7-93f6-151ad1361271",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "96ee1299-525a-42ce-a31e-8e4df1be19e7",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "d3e32160-f551-4359-93c6-fdd912b25850",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "7c410788-5109-44fa-bd88-c3fc700f2805",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "d3e32160-f551-4359-93c6-fdd912b25850",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "210f5150-5849-4f07-b02c-d7824fba9d1e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "d3e32160-f551-4359-93c6-fdd912b25850",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "b112e027-ec3f-4f49-8e2c-e3e73028aa85",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "89d4bc3d-4d7c-4a90-bf06-1765e50ef394",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "b112e027-ec3f-4f49-8e2c-e3e73028aa85",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "dda15b75-392e-4284-84b3-f2e977c0f763",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "b112e027-ec3f-4f49-8e2c-e3e73028aa85",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "bc38478d-ba45-44e0-9364-8ce1fbfd203c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "241ece97-e6e2-44c4-983c-b61b4f0141f6",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "bc38478d-ba45-44e0-9364-8ce1fbfd203c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b1db6c6f-d418-4889-b16e-beeacb876360",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "bc38478d-ba45-44e0-9364-8ce1fbfd203c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "0922abb1-8249-46f4-831b-5d74db417733",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "74a7f0af-8470-453d-be73-664d3ce9143e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "0922abb1-8249-46f4-831b-5d74db417733",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "506fe210-6408-4e0a-8ab8-0c7d997cb3ec",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "0922abb1-8249-46f4-831b-5d74db417733",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "46c432c6-44e0-484a-92d5-85bee960fae2",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "7badd3b1-0bb3-405b-8a81-3fe624a40fda",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "46c432c6-44e0-484a-92d5-85bee960fae2",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "c5f86722-bae3-4e48-a267-e4a1fe1c641e",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "46c432c6-44e0-484a-92d5-85bee960fae2",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7f54e274-c658-4972-a47b-da104582b58f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "b45883d8-0667-4aec-a7dc-fec860ec10c0",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7f54e274-c658-4972-a47b-da104582b58f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e2794eca-84b8-48b2-b999-e2b5e87c94c8",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7f54e274-c658-4972-a47b-da104582b58f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "9dce5a2c-b641-4293-a41f-34829fcbd9fc",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "e87ceb3e-c159-4c0b-8ce3-57dd7475c292",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "9dce5a2c-b641-4293-a41f-34829fcbd9fc",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "676b3623-9510-453b-8964-268707d604aa",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "9dce5a2c-b641-4293-a41f-34829fcbd9fc",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a233a673-59ea-445c-ae6b-c4ed845ab4e2",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a1bece91-872e-4661-81b2-9b3ecc0169d4",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a233a673-59ea-445c-ae6b-c4ed845ab4e2",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "44d93a7e-dda4-409b-84fa-1f8a2dc81194",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a233a673-59ea-445c-ae6b-c4ed845ab4e2",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "8b4d23a9-cbf4-4722-887d-87aef8a945cb",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "ffee4551-43ae-4fb5-aa3a-d29a9c7b8d87",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "8b4d23a9-cbf4-4722-887d-87aef8a945cb",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "afc729c8-3e71-4625-b1b3-3e5803c1c989",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "8b4d23a9-cbf4-4722-887d-87aef8a945cb",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "80e63afb-bfd6-40ab-8958-81530c72c846",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "591c18fb-4df6-4ba0-9f51-d79574e20ef3",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "cc661030-cd16-4311-b152-1d89515d023f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "846e6bfe-62fc-46f9-a6e9-b99f607fe380",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "cc661030-cd16-4311-b152-1d89515d023f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "2e900920-f7d7-4117-b67d-3acab748c606",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "cc661030-cd16-4311-b152-1d89515d023f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "ea669494-529f-4d12-aeb3-5d927063bab0",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "dcc4ca87-b8c8-403e-8f46-cb2a2f066f61",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "ea669494-529f-4d12-aeb3-5d927063bab0",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d1f23a80-60e5-46ce-ae8c-1d8198472a31",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "ea669494-529f-4d12-aeb3-5d927063bab0",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "5a848be0-4b63-4d18-a8f8-ffacb0077e2d",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "da18d12c-08ab-49ef-8fd5-3e518bd36e0e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "5a848be0-4b63-4d18-a8f8-ffacb0077e2d",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "6e3649c2-a448-44e8-a9be-9fa83a712fd5",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "5a848be0-4b63-4d18-a8f8-ffacb0077e2d",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "0d5c2858-96cb-428b-9a3c-56f0ac39ec6f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "cab15c20-c2b3-4619-8d5e-2fd02c57a9a5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "0d5c2858-96cb-428b-9a3c-56f0ac39ec6f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "9d7c2650-b594-4c4c-8ce7-4ed0560f5131",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "0d5c2858-96cb-428b-9a3c-56f0ac39ec6f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "df7ca7bd-867a-4da8-99e9-0926b5672f8e",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "c4fb2a60-dbe5-4d65-a6c1-3be5c8e04bff",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "df7ca7bd-867a-4da8-99e9-0926b5672f8e",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "f2482e71-7071-4371-b144-dbd27dcdeab4",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "df7ca7bd-867a-4da8-99e9-0926b5672f8e",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "efd7eed0-7799-4767-a6eb-f34eb7c7552a",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a60e9b36-d1c9-437e-b758-dcae8ab4fec5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "efd7eed0-7799-4767-a6eb-f34eb7c7552a",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "1a2d2da7-dd9b-428a-9297-eb8e906a1132",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "efd7eed0-7799-4767-a6eb-f34eb7c7552a",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "9b05b965-ba9b-4e19-a511-551aa5568204",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "2e0a45c2-4875-4073-b28d-cb377359ae2d",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "9b05b965-ba9b-4e19-a511-551aa5568204",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "3ab36c5e-ea34-413a-abe1-1043fd1b2b3f",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "9b05b965-ba9b-4e19-a511-551aa5568204",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "05ef1293-8669-46c2-9c33-7e1d370ea367",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a659d3a7-e489-4f08-a8a0-b503c8cd95e2",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "05ef1293-8669-46c2-9c33-7e1d370ea367",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "588a4f7c-4bf4-409e-a838-6d05d9491904",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "05ef1293-8669-46c2-9c33-7e1d370ea367",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "2878545b-c02c-4fab-9095-b97aa8e1ff13",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "291a2705-de21-4611-9196-1e658ed4cbdb",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "2878545b-c02c-4fab-9095-b97aa8e1ff13",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "2aef331a-e029-4403-b643-a280d19f6b7f",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "2878545b-c02c-4fab-9095-b97aa8e1ff13",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "0413936c-0cfb-4424-be4d-5a7dff1fac71",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "af107ca0-c915-470a-842d-01e3fc6d13a1",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "49d11fb7-cf15-4daa-ab4f-4bef80bb28e9",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "d0ec3be2-d669-43f2-8f20-317624429727",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "49d11fb7-cf15-4daa-ab4f-4bef80bb28e9",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "9a24232e-c46c-4bf8-b1b8-58bbada4b2b9",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "49d11fb7-cf15-4daa-ab4f-4bef80bb28e9",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "1a67b4ff-6cef-4db8-a641-9df0a938461f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5485cb47-6219-4176-97f1-7c57694ee8d0",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "1a67b4ff-6cef-4db8-a641-9df0a938461f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "c9212efa-c782-4cb8-a808-89ae9bed6645",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "1a67b4ff-6cef-4db8-a641-9df0a938461f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "86dea30f-6292-4f3a-81ed-49f0d3926c2c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "1207869c-0183-4c75-b7b5-8bb86404e058",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "86dea30f-6292-4f3a-81ed-49f0d3926c2c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "3c533b22-4cac-4378-ae64-921b535d97f9",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "86dea30f-6292-4f3a-81ed-49f0d3926c2c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "48994cfd-fc67-4345-b364-24f646c9fb34",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "91a47e7f-f7e2-4549-8641-f868b765ed6a",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "48994cfd-fc67-4345-b364-24f646c9fb34",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "c80dfa98-436f-481c-84dc-2e1a1f4c19e2",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "48994cfd-fc67-4345-b364-24f646c9fb34",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "c37b392d-afa0-4f32-9779-c73d8dbdf03f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "0e05b934-46a6-49b6-a500-7d11b5f89ed1",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c37b392d-afa0-4f32-9779-c73d8dbdf03f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "27bc5983-d734-4676-b2f8-4fed04fe95ee",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c37b392d-afa0-4f32-9779-c73d8dbdf03f",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "035b6f59-46cd-47d4-aec1-a9732de13117",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "51626ab9-223d-4de5-98fd-743753298d0d",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "035b6f59-46cd-47d4-aec1-a9732de13117",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "5b6e5208-7d7c-4be3-aff5-1c153ffd39ac",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "035b6f59-46cd-47d4-aec1-a9732de13117",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "91789560-2dc7-43e8-927f-ffeab85969f0",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "521b7379-8763-41cc-b648-483cb9776bc5",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "91789560-2dc7-43e8-927f-ffeab85969f0",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "388d14b8-804d-46d6-8151-8b983c4840b8",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "91789560-2dc7-43e8-927f-ffeab85969f0",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "a3889ad9-3b72-4c2b-9548-0066c24ac606",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "4239ecb8-85ac-453b-b538-497f4f0bf35c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a3889ad9-3b72-4c2b-9548-0066c24ac606",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "c2ea15cd-b938-4739-a84e-e90fa16522c8",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a3889ad9-3b72-4c2b-9548-0066c24ac606",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "03751b40-8974-445c-b08a-e8dd2d34bdf6",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a58dbe34-4474-4703-bdc6-e57b02b87b64",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "03751b40-8974-445c-b08a-e8dd2d34bdf6",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "50d99c9a-3ccc-4390-a82a-03444312fb22",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "03751b40-8974-445c-b08a-e8dd2d34bdf6",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "af828ab9-eb9a-4537-b733-47af92d4c722",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "66da70aa-6ead-4416-8b2b-fb96b27fa87e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "af828ab9-eb9a-4537-b733-47af92d4c722",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e6a8abd9-6123-4955-9e56-433d0522f541",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "af828ab9-eb9a-4537-b733-47af92d4c722",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "910f0970-def3-4721-bf70-032ed7c080da",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "1536949b-941b-4af4-ad96-9ea5cce1946a",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "910f0970-def3-4721-bf70-032ed7c080da",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "c28cbf05-ea97-4501-a704-e54cfd5c17ad",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "910f0970-def3-4721-bf70-032ed7c080da",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "f7ebeb3b-7463-40f8-8881-36bf463fba2b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "20bd5306-dc9d-4711-a9fe-9e1cd41270b0",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "13557b26-c7d7-4907-88dd-58db0f133162",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "3a38c811-6087-483c-8d0e-f320902471ae",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "13557b26-c7d7-4907-88dd-58db0f133162",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "37b88759-4c1a-42b5-a29e-f6c836240a9a",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "13557b26-c7d7-4907-88dd-58db0f133162",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "78226c29-578b-4232-84a7-054475670ada",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "fd7627cf-f0f2-4d88-bb07-bf348e7e6085",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "866f6163-c94e-48f9-bd36-e9294323118c",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "ba087d95-934c-4c63-8b21-f484810e40d6",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "866f6163-c94e-48f9-bd36-e9294323118c",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "75ec5a9c-a64b-4f19-994f-ca599f0104ef",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "866f6163-c94e-48f9-bd36-e9294323118c",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "190787a3-9018-415c-9feb-bc7c5d625c50",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "df4379d2-bcec-4cfb-b17a-e3fae39be96c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "190787a3-9018-415c-9feb-bc7c5d625c50",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "5d9e076b-dff8-486b-9d9e-db9f6cb65adb",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "190787a3-9018-415c-9feb-bc7c5d625c50",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "acca8345-17a0-46b8-b675-b5d67222a874",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5169746a-7fd6-4281-8e7f-fa879ef83cfe",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "acca8345-17a0-46b8-b675-b5d67222a874",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "8a378cb0-09df-4fb3-8ebd-cfb63cbe7d71",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "acca8345-17a0-46b8-b675-b5d67222a874",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "c59bc0a7-e029-4490-b1d3-f17e2542f275",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "60c17c54-9a50-4646-bbe3-bf55fee9b51b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c59bc0a7-e029-4490-b1d3-f17e2542f275",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a8cfdca0-0cee-4d92-8d19-04704cd02d43",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c59bc0a7-e029-4490-b1d3-f17e2542f275",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "1e1ecbdc-1db2-4d4d-82d5-e92d49d81087",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "73688ac8-36ce-444d-806a-dc1ffd970498",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "1e1ecbdc-1db2-4d4d-82d5-e92d49d81087",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "913dfca9-dd78-47f6-a616-f736e1cd4ff4",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "1e1ecbdc-1db2-4d4d-82d5-e92d49d81087",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "c5a70f69-abd4-4636-a482-ff66598b43e7",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "8993b5dd-a1c2-4c5a-8b6c-1db20c1a180b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c5a70f69-abd4-4636-a482-ff66598b43e7",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "36f4cdfa-65e0-4509-bc1d-657542942daf",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c5a70f69-abd4-4636-a482-ff66598b43e7",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "77ab0763-ef57-4944-9e38-b6b59e7d0bce",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "73733218-6ff9-41f7-b732-f165a2842016",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "77ab0763-ef57-4944-9e38-b6b59e7d0bce",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a1260995-3309-4c61-864b-53c6d7334d84",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "77ab0763-ef57-4944-9e38-b6b59e7d0bce",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "8a43c411-98e7-4c35-a032-2f9912b2f4df",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "75b1cafb-ca73-423f-8c95-7fa2792b6df3",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "8a43c411-98e7-4c35-a032-2f9912b2f4df",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "32e47eff-4f27-4ffe-9b9e-fe72c87adcf9",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "8a43c411-98e7-4c35-a032-2f9912b2f4df",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "86108a64-e14c-4bc9-b562-70faa4df0ff1",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "9b25129a-16dc-4678-bdd6-80b6da5ac94c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "86108a64-e14c-4bc9-b562-70faa4df0ff1",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "bbf41ebe-c64f-4c51-aa0a-1825e60189e7",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "86108a64-e14c-4bc9-b562-70faa4df0ff1",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "013a1320-cebb-4434-be32-685518de6b90",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "401a86b0-5cc9-45db-abe3-5bd7ef248e3e",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "013a1320-cebb-4434-be32-685518de6b90",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "da9c4024-0b42-4c4f-92f2-f83e38328c60",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "013a1320-cebb-4434-be32-685518de6b90",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "6b4f5be0-4525-48d4-a885-4c9ad60de4f2",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "6cb902e7-90f9-4968-95c1-2041aae2727f",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "6b4f5be0-4525-48d4-a885-4c9ad60de4f2",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "2be8a73d-3c9d-45a2-a678-fe93c3bce6db",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "6b4f5be0-4525-48d4-a885-4c9ad60de4f2",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "216946ac-06ba-4adb-b953-f037eef716cd",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "a09f7a8c-b0db-46d9-95f5-9819f938f3e1",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "216946ac-06ba-4adb-b953-f037eef716cd",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "bd8af57e-3581-4125-abb1-8196d78c099b",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "216946ac-06ba-4adb-b953-f037eef716cd",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "7bbc69a7-c6e1-474f-bca7-5bd3b80bb097",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "c3e7dfe0-1b8c-4222-803a-04157018c23a",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "7bbc69a7-c6e1-474f-bca7-5bd3b80bb097",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "545f391a-126c-41af-a908-e002b868a008",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "7bbc69a7-c6e1-474f-bca7-5bd3b80bb097",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "6ca066ab-bef2-42c8-aef7-f5faa877683a",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "4fe12c28-d818-4d35-a0c4-e9c8fe675956",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "6ca066ab-bef2-42c8-aef7-f5faa877683a",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "810ecf22-7368-4f74-9825-21e4ffa1173a",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "6ca066ab-bef2-42c8-aef7-f5faa877683a",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "c7bc8e96-6672-4ed8-ad22-37f4c2579e26",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "6c53ca3b-7f41-4278-8e32-fe9942c21cde",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "c7bc8e96-6672-4ed8-ad22-37f4c2579e26",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "08deabba-2f93-4b6b-a2b0-7c8e740390a8",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "c7bc8e96-6672-4ed8-ad22-37f4c2579e26",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "86e19f0e-56e2-48df-963d-fc49554edc08",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5b815cc4-9136-4426-a87c-13a67d0a6f9b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "86e19f0e-56e2-48df-963d-fc49554edc08",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "bcd2bcbf-5484-47f6-b994-0fdb94be34e6",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "86e19f0e-56e2-48df-963d-fc49554edc08",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "527c29e3-3e85-40a4-a824-3ad4c07260cc",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "08883a16-4a23-46f9-acd0-79604f104793",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "527c29e3-3e85-40a4-a824-3ad4c07260cc",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "b0801cfa-6a6e-4b43-8a87-5ecff305ba14",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "527c29e3-3e85-40a4-a824-3ad4c07260cc",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "6c73f310-7939-4745-acf1-680e6c2d1b2e",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "c1039c7c-e966-4d1c-8413-58ed983ff8d6",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "6c73f310-7939-4745-acf1-680e6c2d1b2e",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "4084b72d-688a-4838-9745-9adfdeca3867",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "6c73f310-7939-4745-acf1-680e6c2d1b2e",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "df1d5c14-1fb3-4117-99aa-a98951a2d08e",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "94b583c8-3213-40b0-a7da-4238e182308f",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "df1d5c14-1fb3-4117-99aa-a98951a2d08e",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d2d1badb-79e0-400d-b2ae-cefea1d81dd2",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "df1d5c14-1fb3-4117-99aa-a98951a2d08e",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "5fee4a3e-66b0-4dd3-a775-e5f2732bc672",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "410075ee-26ba-4577-b348-878e4553d31c",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        },
-        {
-            "id": "bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "compositeImage": {
-                "id": "722973ea-6698-4cde-a355-5d3ce08d0590",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "450e39af-0517-4706-b3e0-70ed93a0121b",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4",
-                    "LayerId": "301dae48-1ddc-4e48-b118-1c2e9449ee6f"
-                }
-            ]
-        }
-    ],
-    "gridX": 0,
-    "gridY": 0,
-    "height": 512,
-    "layers": [
-        {
-            "id": "301dae48-1ddc-4e48-b118-1c2e9449ee6f",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "77cdddec-dbef-4117-aab8-b134a587fc4b",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "default",
-            "opacity": 100,
-            "visible": true
-        }
-    ],
-    "origin": 4,
-    "originLocked": true,
-    "playbackSpeed": 1,
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 255,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 0,
+  "bbox_top": 0,
+  "bbox_bottom": 0,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 512,
+  "height": 512,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"4d746de4-6b8e-4381-9365-13e6b36a6bf9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4d746de4-6b8e-4381-9365-13e6b36a6bf9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"4d746de4-6b8e-4381-9365-13e6b36a6bf9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"863ad92b-472b-4156-8e69-d96bd04ceab1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"863ad92b-472b-4156-8e69-d96bd04ceab1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"863ad92b-472b-4156-8e69-d96bd04ceab1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"62f98512-f1ba-40de-b050-df75394fc39b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"62f98512-f1ba-40de-b050-df75394fc39b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"62f98512-f1ba-40de-b050-df75394fc39b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7651f701-f286-47eb-822c-0728fb0ace44","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7651f701-f286-47eb-822c-0728fb0ace44","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7651f701-f286-47eb-822c-0728fb0ace44","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bff98546-fc11-4e17-bcf5-b24a3d32a403","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bff98546-fc11-4e17-bcf5-b24a3d32a403","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"bff98546-fc11-4e17-bcf5-b24a3d32a403","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a3a99244-04a9-47a4-a17e-27d77a7f3de9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a3a99244-04a9-47a4-a17e-27d77a7f3de9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a3a99244-04a9-47a4-a17e-27d77a7f3de9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"01723e59-e0aa-4535-9731-e9cc00b5ef2e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"01723e59-e0aa-4535-9731-e9cc00b5ef2e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"01723e59-e0aa-4535-9731-e9cc00b5ef2e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"579b3ac8-922b-4651-812b-99ea12d4f2ff","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"579b3ac8-922b-4651-812b-99ea12d4f2ff","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"579b3ac8-922b-4651-812b-99ea12d4f2ff","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"677cf59a-f79a-4bfd-9bfd-56062d2292cd","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"677cf59a-f79a-4bfd-9bfd-56062d2292cd","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"677cf59a-f79a-4bfd-9bfd-56062d2292cd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4b7af07e-f690-441a-9e70-0e553bddb77a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4b7af07e-f690-441a-9e70-0e553bddb77a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"4b7af07e-f690-441a-9e70-0e553bddb77a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6111d5d7-6cb5-4a59-b228-96a2d0f6ad88","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6111d5d7-6cb5-4a59-b228-96a2d0f6ad88","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"6111d5d7-6cb5-4a59-b228-96a2d0f6ad88","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"abfae4d3-9256-41f5-87fb-a85813b26a75","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"abfae4d3-9256-41f5-87fb-a85813b26a75","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"abfae4d3-9256-41f5-87fb-a85813b26a75","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"219f454a-2bd8-47c0-a40e-f8b0e3b75eb6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"219f454a-2bd8-47c0-a40e-f8b0e3b75eb6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"219f454a-2bd8-47c0-a40e-f8b0e3b75eb6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b244057b-e407-4290-9745-6d2b4fcc9bbc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b244057b-e407-4290-9745-6d2b4fcc9bbc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"b244057b-e407-4290-9745-6d2b4fcc9bbc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0f2e4a78-b0eb-4722-8595-057397bfaf16","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0f2e4a78-b0eb-4722-8595-057397bfaf16","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"0f2e4a78-b0eb-4722-8595-057397bfaf16","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8ba8dba1-05a1-4480-b716-280fadfafee7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8ba8dba1-05a1-4480-b716-280fadfafee7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"8ba8dba1-05a1-4480-b716-280fadfafee7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"48856fe6-52b5-498b-b7d7-a9c7f01ecb8c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"48856fe6-52b5-498b-b7d7-a9c7f01ecb8c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"48856fe6-52b5-498b-b7d7-a9c7f01ecb8c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8c52160a-ad13-43d7-81e7-8633edd8cd05","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8c52160a-ad13-43d7-81e7-8633edd8cd05","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"8c52160a-ad13-43d7-81e7-8633edd8cd05","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d16dae9a-9c56-43fc-b5a8-21d3dbf10de0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d16dae9a-9c56-43fc-b5a8-21d3dbf10de0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"d16dae9a-9c56-43fc-b5a8-21d3dbf10de0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3b97da91-0e88-4297-80f1-3eaec05f9fd1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3b97da91-0e88-4297-80f1-3eaec05f9fd1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"3b97da91-0e88-4297-80f1-3eaec05f9fd1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b9eb9702-c55a-42d7-bccd-7947f275b5c8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b9eb9702-c55a-42d7-bccd-7947f275b5c8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"b9eb9702-c55a-42d7-bccd-7947f275b5c8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cd2e03e8-85da-410c-a599-989c09620afa","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cd2e03e8-85da-410c-a599-989c09620afa","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"cd2e03e8-85da-410c-a599-989c09620afa","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"57fc05a3-5a5c-41b0-89d3-5b6bd7069064","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"57fc05a3-5a5c-41b0-89d3-5b6bd7069064","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"57fc05a3-5a5c-41b0-89d3-5b6bd7069064","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"294ac78a-7cdd-44ae-a978-7751f07cb942","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"294ac78a-7cdd-44ae-a978-7751f07cb942","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"294ac78a-7cdd-44ae-a978-7751f07cb942","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"99ca9deb-7b73-4c8e-b368-9f3faf530f19","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"99ca9deb-7b73-4c8e-b368-9f3faf530f19","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"99ca9deb-7b73-4c8e-b368-9f3faf530f19","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"98d39ac9-1afd-406a-8d4f-bfa5739382db","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"98d39ac9-1afd-406a-8d4f-bfa5739382db","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"98d39ac9-1afd-406a-8d4f-bfa5739382db","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a3a4a332-a52c-46a1-aab4-4d82e438b253","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a3a4a332-a52c-46a1-aab4-4d82e438b253","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a3a4a332-a52c-46a1-aab4-4d82e438b253","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"da4324ea-1b78-4649-91c0-4d768b91bf2c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"da4324ea-1b78-4649-91c0-4d768b91bf2c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"da4324ea-1b78-4649-91c0-4d768b91bf2c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7c914e17-e619-459e-a9a3-097e75bb6f60","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7c914e17-e619-459e-a9a3-097e75bb6f60","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7c914e17-e619-459e-a9a3-097e75bb6f60","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"157d0be3-80f3-470a-bf38-595c76fc0a4d","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"157d0be3-80f3-470a-bf38-595c76fc0a4d","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"157d0be3-80f3-470a-bf38-595c76fc0a4d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fb47c453-0fe1-45e8-9213-7388990dcd6c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fb47c453-0fe1-45e8-9213-7388990dcd6c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"fb47c453-0fe1-45e8-9213-7388990dcd6c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"67f761a9-1724-4874-82af-ba1b223b77fe","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"67f761a9-1724-4874-82af-ba1b223b77fe","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"67f761a9-1724-4874-82af-ba1b223b77fe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"89941706-bef4-40c7-8c7e-3f4dd6f85f3f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"89941706-bef4-40c7-8c7e-3f4dd6f85f3f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"89941706-bef4-40c7-8c7e-3f4dd6f85f3f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9a6d7be9-6553-4616-8053-34eb47bc76c4","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9a6d7be9-6553-4616-8053-34eb47bc76c4","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"9a6d7be9-6553-4616-8053-34eb47bc76c4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"975aaec2-858e-4c40-984b-a204733e7633","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"975aaec2-858e-4c40-984b-a204733e7633","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"975aaec2-858e-4c40-984b-a204733e7633","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"10e7d37d-dbbf-44d0-8e76-b4020622f0cf","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"10e7d37d-dbbf-44d0-8e76-b4020622f0cf","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"10e7d37d-dbbf-44d0-8e76-b4020622f0cf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d806b364-c405-4804-9847-9ca3c28aa029","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d806b364-c405-4804-9847-9ca3c28aa029","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"d806b364-c405-4804-9847-9ca3c28aa029","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e681495d-ff0c-4060-8e83-fde188a76c80","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e681495d-ff0c-4060-8e83-fde188a76c80","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"e681495d-ff0c-4060-8e83-fde188a76c80","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d938e0af-7893-42b1-9521-11c8af862113","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d938e0af-7893-42b1-9521-11c8af862113","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"d938e0af-7893-42b1-9521-11c8af862113","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"03f4a695-80cd-4d03-b705-60f039dd8c10","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"03f4a695-80cd-4d03-b705-60f039dd8c10","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"03f4a695-80cd-4d03-b705-60f039dd8c10","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09debf53-7a56-48d7-9eb5-0b0655ab84e8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09debf53-7a56-48d7-9eb5-0b0655ab84e8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"09debf53-7a56-48d7-9eb5-0b0655ab84e8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"571fba72-a2d0-48ed-ab8f-3bc08ed8fded","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"571fba72-a2d0-48ed-ab8f-3bc08ed8fded","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"571fba72-a2d0-48ed-ab8f-3bc08ed8fded","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5553b08f-c70d-4b99-8bd8-e9b72e533ac3","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5553b08f-c70d-4b99-8bd8-e9b72e533ac3","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"5553b08f-c70d-4b99-8bd8-e9b72e533ac3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1585c5bb-adcf-44e3-9146-7e44ffd31624","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1585c5bb-adcf-44e3-9146-7e44ffd31624","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"1585c5bb-adcf-44e3-9146-7e44ffd31624","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"13c94bc8-4a98-4ff1-bfb4-e6f73d034a51","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"13c94bc8-4a98-4ff1-bfb4-e6f73d034a51","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"13c94bc8-4a98-4ff1-bfb4-e6f73d034a51","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7ebd624a-67af-4a35-93b0-0eb1b26cdba8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7ebd624a-67af-4a35-93b0-0eb1b26cdba8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7ebd624a-67af-4a35-93b0-0eb1b26cdba8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6e98813a-fed4-4ec8-8cc0-9c0b4f636304","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6e98813a-fed4-4ec8-8cc0-9c0b4f636304","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"6e98813a-fed4-4ec8-8cc0-9c0b4f636304","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a03e1007-06fd-4c14-b8f3-9ed680538e3f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a03e1007-06fd-4c14-b8f3-9ed680538e3f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a03e1007-06fd-4c14-b8f3-9ed680538e3f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"30a906cf-cf0a-4286-917a-e67b2ccf33d8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"30a906cf-cf0a-4286-917a-e67b2ccf33d8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"30a906cf-cf0a-4286-917a-e67b2ccf33d8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7e8e8d80-90ce-453f-a98b-9fb09d52bb7a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7e8e8d80-90ce-453f-a98b-9fb09d52bb7a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7e8e8d80-90ce-453f-a98b-9fb09d52bb7a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"abf9e5e8-383a-498d-8968-db70a581109b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"abf9e5e8-383a-498d-8968-db70a581109b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"abf9e5e8-383a-498d-8968-db70a581109b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"deae34b7-1170-40e5-8541-bacf5af61992","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"deae34b7-1170-40e5-8541-bacf5af61992","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"deae34b7-1170-40e5-8541-bacf5af61992","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"448311c4-f878-4012-a2ed-6e6900c27797","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"448311c4-f878-4012-a2ed-6e6900c27797","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"448311c4-f878-4012-a2ed-6e6900c27797","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d97d54e4-a1d1-4188-be7b-39eb0466c12c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d97d54e4-a1d1-4188-be7b-39eb0466c12c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"d97d54e4-a1d1-4188-be7b-39eb0466c12c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"df6df693-62ac-4b09-b535-731529211d0b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"df6df693-62ac-4b09-b535-731529211d0b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"df6df693-62ac-4b09-b535-731529211d0b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0a935b18-e03a-4eeb-9a98-6229bf761c56","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0a935b18-e03a-4eeb-9a98-6229bf761c56","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"0a935b18-e03a-4eeb-9a98-6229bf761c56","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"def7e603-0bae-4043-8b1f-06f921458c0e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"def7e603-0bae-4043-8b1f-06f921458c0e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"def7e603-0bae-4043-8b1f-06f921458c0e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a2a31c43-af5b-4288-894e-724c95612c8f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a2a31c43-af5b-4288-894e-724c95612c8f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a2a31c43-af5b-4288-894e-724c95612c8f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1899e1ce-1e6d-4bae-bc91-03cb8158ab8c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1899e1ce-1e6d-4bae-bc91-03cb8158ab8c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"1899e1ce-1e6d-4bae-bc91-03cb8158ab8c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"03eb615e-8ba5-4701-83b5-a567c915bce8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"03eb615e-8ba5-4701-83b5-a567c915bce8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"03eb615e-8ba5-4701-83b5-a567c915bce8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b2cae4f4-74a7-45f5-8b3d-5441127e306c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b2cae4f4-74a7-45f5-8b3d-5441127e306c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"b2cae4f4-74a7-45f5-8b3d-5441127e306c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4b020804-7782-4c51-b7e6-888165fe0817","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4b020804-7782-4c51-b7e6-888165fe0817","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"4b020804-7782-4c51-b7e6-888165fe0817","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aceaf56d-d30c-4732-b09e-453a6ec6cd88","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aceaf56d-d30c-4732-b09e-453a6ec6cd88","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"aceaf56d-d30c-4732-b09e-453a6ec6cd88","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9f612fe9-5325-4813-8120-2036d9aadd47","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9f612fe9-5325-4813-8120-2036d9aadd47","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"9f612fe9-5325-4813-8120-2036d9aadd47","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"75acd56f-9bf6-4566-b9aa-c1de9acc08de","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"75acd56f-9bf6-4566-b9aa-c1de9acc08de","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"75acd56f-9bf6-4566-b9aa-c1de9acc08de","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2d308b40-97fd-4852-bbe5-c791547d24cb","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2d308b40-97fd-4852-bbe5-c791547d24cb","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"2d308b40-97fd-4852-bbe5-c791547d24cb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5e879420-24ae-4e08-8310-697e5f98ffc3","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5e879420-24ae-4e08-8310-697e5f98ffc3","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"5e879420-24ae-4e08-8310-697e5f98ffc3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a54cf1f7-5c43-4698-922c-3102431a3d65","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a54cf1f7-5c43-4698-922c-3102431a3d65","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a54cf1f7-5c43-4698-922c-3102431a3d65","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2bb55422-76ae-4098-917a-0349e88f4837","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2bb55422-76ae-4098-917a-0349e88f4837","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"2bb55422-76ae-4098-917a-0349e88f4837","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"be499831-c9f9-417a-ae38-05cea0f0a43c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"be499831-c9f9-417a-ae38-05cea0f0a43c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"be499831-c9f9-417a-ae38-05cea0f0a43c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c80badf3-1d1f-41c7-bf9b-7789b94acfed","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c80badf3-1d1f-41c7-bf9b-7789b94acfed","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"c80badf3-1d1f-41c7-bf9b-7789b94acfed","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"011f7747-6fab-4441-aca9-2a349433942b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"011f7747-6fab-4441-aca9-2a349433942b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"011f7747-6fab-4441-aca9-2a349433942b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0345f8b8-3b5f-481c-aaec-e921f35d063b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0345f8b8-3b5f-481c-aaec-e921f35d063b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"0345f8b8-3b5f-481c-aaec-e921f35d063b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bdce4587-a759-4ec4-a22a-04d270816b82","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bdce4587-a759-4ec4-a22a-04d270816b82","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"bdce4587-a759-4ec4-a22a-04d270816b82","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"217b9e68-a061-45ba-b484-35d5ca21848f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"217b9e68-a061-45ba-b484-35d5ca21848f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"217b9e68-a061-45ba-b484-35d5ca21848f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"50ed66d8-be8f-44ce-a0a1-a2fb05885a62","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"50ed66d8-be8f-44ce-a0a1-a2fb05885a62","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"50ed66d8-be8f-44ce-a0a1-a2fb05885a62","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6af355f8-ce5d-4fb5-87bd-b7bb9671504b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6af355f8-ce5d-4fb5-87bd-b7bb9671504b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"6af355f8-ce5d-4fb5-87bd-b7bb9671504b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fdd3c097-d238-414c-ae13-e0023d28307c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fdd3c097-d238-414c-ae13-e0023d28307c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"fdd3c097-d238-414c-ae13-e0023d28307c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"96ee1299-525a-42ce-a31e-8e4df1be19e7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"96ee1299-525a-42ce-a31e-8e4df1be19e7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"96ee1299-525a-42ce-a31e-8e4df1be19e7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d3e32160-f551-4359-93c6-fdd912b25850","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d3e32160-f551-4359-93c6-fdd912b25850","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"d3e32160-f551-4359-93c6-fdd912b25850","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b112e027-ec3f-4f49-8e2c-e3e73028aa85","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b112e027-ec3f-4f49-8e2c-e3e73028aa85","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"b112e027-ec3f-4f49-8e2c-e3e73028aa85","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bc38478d-ba45-44e0-9364-8ce1fbfd203c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bc38478d-ba45-44e0-9364-8ce1fbfd203c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"bc38478d-ba45-44e0-9364-8ce1fbfd203c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0922abb1-8249-46f4-831b-5d74db417733","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0922abb1-8249-46f4-831b-5d74db417733","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"0922abb1-8249-46f4-831b-5d74db417733","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"46c432c6-44e0-484a-92d5-85bee960fae2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"46c432c6-44e0-484a-92d5-85bee960fae2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"46c432c6-44e0-484a-92d5-85bee960fae2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7f54e274-c658-4972-a47b-da104582b58f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7f54e274-c658-4972-a47b-da104582b58f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7f54e274-c658-4972-a47b-da104582b58f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9dce5a2c-b641-4293-a41f-34829fcbd9fc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9dce5a2c-b641-4293-a41f-34829fcbd9fc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"9dce5a2c-b641-4293-a41f-34829fcbd9fc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a233a673-59ea-445c-ae6b-c4ed845ab4e2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a233a673-59ea-445c-ae6b-c4ed845ab4e2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a233a673-59ea-445c-ae6b-c4ed845ab4e2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8b4d23a9-cbf4-4722-887d-87aef8a945cb","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8b4d23a9-cbf4-4722-887d-87aef8a945cb","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"8b4d23a9-cbf4-4722-887d-87aef8a945cb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cc661030-cd16-4311-b152-1d89515d023f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cc661030-cd16-4311-b152-1d89515d023f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"cc661030-cd16-4311-b152-1d89515d023f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ea669494-529f-4d12-aeb3-5d927063bab0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ea669494-529f-4d12-aeb3-5d927063bab0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"ea669494-529f-4d12-aeb3-5d927063bab0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5a848be0-4b63-4d18-a8f8-ffacb0077e2d","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5a848be0-4b63-4d18-a8f8-ffacb0077e2d","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"5a848be0-4b63-4d18-a8f8-ffacb0077e2d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0d5c2858-96cb-428b-9a3c-56f0ac39ec6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0d5c2858-96cb-428b-9a3c-56f0ac39ec6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"0d5c2858-96cb-428b-9a3c-56f0ac39ec6f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"df7ca7bd-867a-4da8-99e9-0926b5672f8e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"df7ca7bd-867a-4da8-99e9-0926b5672f8e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"df7ca7bd-867a-4da8-99e9-0926b5672f8e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"efd7eed0-7799-4767-a6eb-f34eb7c7552a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"efd7eed0-7799-4767-a6eb-f34eb7c7552a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"efd7eed0-7799-4767-a6eb-f34eb7c7552a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9b05b965-ba9b-4e19-a511-551aa5568204","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9b05b965-ba9b-4e19-a511-551aa5568204","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"9b05b965-ba9b-4e19-a511-551aa5568204","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"05ef1293-8669-46c2-9c33-7e1d370ea367","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"05ef1293-8669-46c2-9c33-7e1d370ea367","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"05ef1293-8669-46c2-9c33-7e1d370ea367","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2878545b-c02c-4fab-9095-b97aa8e1ff13","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2878545b-c02c-4fab-9095-b97aa8e1ff13","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"2878545b-c02c-4fab-9095-b97aa8e1ff13","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"49d11fb7-cf15-4daa-ab4f-4bef80bb28e9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"49d11fb7-cf15-4daa-ab4f-4bef80bb28e9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"49d11fb7-cf15-4daa-ab4f-4bef80bb28e9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1a67b4ff-6cef-4db8-a641-9df0a938461f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1a67b4ff-6cef-4db8-a641-9df0a938461f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"1a67b4ff-6cef-4db8-a641-9df0a938461f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"86dea30f-6292-4f3a-81ed-49f0d3926c2c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"86dea30f-6292-4f3a-81ed-49f0d3926c2c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"86dea30f-6292-4f3a-81ed-49f0d3926c2c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"48994cfd-fc67-4345-b364-24f646c9fb34","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"48994cfd-fc67-4345-b364-24f646c9fb34","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"48994cfd-fc67-4345-b364-24f646c9fb34","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c37b392d-afa0-4f32-9779-c73d8dbdf03f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c37b392d-afa0-4f32-9779-c73d8dbdf03f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"c37b392d-afa0-4f32-9779-c73d8dbdf03f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"035b6f59-46cd-47d4-aec1-a9732de13117","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"035b6f59-46cd-47d4-aec1-a9732de13117","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"035b6f59-46cd-47d4-aec1-a9732de13117","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"91789560-2dc7-43e8-927f-ffeab85969f0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"91789560-2dc7-43e8-927f-ffeab85969f0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"91789560-2dc7-43e8-927f-ffeab85969f0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a3889ad9-3b72-4c2b-9548-0066c24ac606","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a3889ad9-3b72-4c2b-9548-0066c24ac606","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"a3889ad9-3b72-4c2b-9548-0066c24ac606","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"03751b40-8974-445c-b08a-e8dd2d34bdf6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"03751b40-8974-445c-b08a-e8dd2d34bdf6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"03751b40-8974-445c-b08a-e8dd2d34bdf6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"af828ab9-eb9a-4537-b733-47af92d4c722","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"af828ab9-eb9a-4537-b733-47af92d4c722","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"af828ab9-eb9a-4537-b733-47af92d4c722","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"910f0970-def3-4721-bf70-032ed7c080da","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"910f0970-def3-4721-bf70-032ed7c080da","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"910f0970-def3-4721-bf70-032ed7c080da","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"13557b26-c7d7-4907-88dd-58db0f133162","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"13557b26-c7d7-4907-88dd-58db0f133162","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"13557b26-c7d7-4907-88dd-58db0f133162","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"866f6163-c94e-48f9-bd36-e9294323118c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"866f6163-c94e-48f9-bd36-e9294323118c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"866f6163-c94e-48f9-bd36-e9294323118c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"190787a3-9018-415c-9feb-bc7c5d625c50","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"190787a3-9018-415c-9feb-bc7c5d625c50","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"190787a3-9018-415c-9feb-bc7c5d625c50","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"acca8345-17a0-46b8-b675-b5d67222a874","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"acca8345-17a0-46b8-b675-b5d67222a874","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"acca8345-17a0-46b8-b675-b5d67222a874","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c59bc0a7-e029-4490-b1d3-f17e2542f275","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c59bc0a7-e029-4490-b1d3-f17e2542f275","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"c59bc0a7-e029-4490-b1d3-f17e2542f275","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1e1ecbdc-1db2-4d4d-82d5-e92d49d81087","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1e1ecbdc-1db2-4d4d-82d5-e92d49d81087","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"1e1ecbdc-1db2-4d4d-82d5-e92d49d81087","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c5a70f69-abd4-4636-a482-ff66598b43e7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c5a70f69-abd4-4636-a482-ff66598b43e7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"c5a70f69-abd4-4636-a482-ff66598b43e7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"77ab0763-ef57-4944-9e38-b6b59e7d0bce","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"77ab0763-ef57-4944-9e38-b6b59e7d0bce","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"77ab0763-ef57-4944-9e38-b6b59e7d0bce","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8a43c411-98e7-4c35-a032-2f9912b2f4df","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8a43c411-98e7-4c35-a032-2f9912b2f4df","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"8a43c411-98e7-4c35-a032-2f9912b2f4df","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"86108a64-e14c-4bc9-b562-70faa4df0ff1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"86108a64-e14c-4bc9-b562-70faa4df0ff1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"86108a64-e14c-4bc9-b562-70faa4df0ff1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"013a1320-cebb-4434-be32-685518de6b90","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"013a1320-cebb-4434-be32-685518de6b90","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"013a1320-cebb-4434-be32-685518de6b90","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b4f5be0-4525-48d4-a885-4c9ad60de4f2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b4f5be0-4525-48d4-a885-4c9ad60de4f2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"6b4f5be0-4525-48d4-a885-4c9ad60de4f2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"216946ac-06ba-4adb-b953-f037eef716cd","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"216946ac-06ba-4adb-b953-f037eef716cd","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"216946ac-06ba-4adb-b953-f037eef716cd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7bbc69a7-c6e1-474f-bca7-5bd3b80bb097","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7bbc69a7-c6e1-474f-bca7-5bd3b80bb097","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"7bbc69a7-c6e1-474f-bca7-5bd3b80bb097","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6ca066ab-bef2-42c8-aef7-f5faa877683a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6ca066ab-bef2-42c8-aef7-f5faa877683a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"6ca066ab-bef2-42c8-aef7-f5faa877683a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c7bc8e96-6672-4ed8-ad22-37f4c2579e26","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c7bc8e96-6672-4ed8-ad22-37f4c2579e26","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"c7bc8e96-6672-4ed8-ad22-37f4c2579e26","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"86e19f0e-56e2-48df-963d-fc49554edc08","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"86e19f0e-56e2-48df-963d-fc49554edc08","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"86e19f0e-56e2-48df-963d-fc49554edc08","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"527c29e3-3e85-40a4-a824-3ad4c07260cc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"527c29e3-3e85-40a4-a824-3ad4c07260cc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"527c29e3-3e85-40a4-a824-3ad4c07260cc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6c73f310-7939-4745-acf1-680e6c2d1b2e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6c73f310-7939-4745-acf1-680e6c2d1b2e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"6c73f310-7939-4745-acf1-680e6c2d1b2e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"df1d5c14-1fb3-4117-99aa-a98951a2d08e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"df1d5c14-1fb3-4117-99aa-a98951a2d08e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"df1d5c14-1fb3-4117-99aa-a98951a2d08e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"LayerId":{"name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","name":"bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
     "playbackSpeedType": 1,
-    "premultiplyAlpha": false,
-    "sepmasks": false,
-    "swatchColours": null,
-    "swfPrecision": 2.525,
-    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
-    "type": 0,
-    "width": 512,
-    "xorig": 256,
-    "yorig": 256
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 138.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"f572088e-2c02-4aec-9329-726891a3fd35","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4d746de4-6b8e-4381-9365-13e6b36a6bf9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"48c8ce0f-3279-428d-a790-647c5765afc7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"863ad92b-472b-4156-8e69-d96bd04ceab1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"beebaf49-79ee-4b12-90d6-5fb2507174da","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8cee5acc-4a7f-4b3e-aa3e-bcd9bd89b502","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"901ec1ea-406e-477e-81d3-b3f160c571bb","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"62f98512-f1ba-40de-b050-df75394fc39b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"70193cec-44e0-49c4-b0c0-5a4683fcbbe9","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7651f701-f286-47eb-822c-0728fb0ace44","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6c8b9433-2a38-4200-9337-d28951662449","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bff98546-fc11-4e17-bcf5-b24a3d32a403","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cce3f54c-9ba9-4184-bdda-da78d47094b9","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a3a99244-04a9-47a4-a17e-27d77a7f3de9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"48b21976-0bde-4c17-815a-ba28898605ca","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"01723e59-e0aa-4535-9731-e9cc00b5ef2e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c8058260-8522-4009-b39d-53036cf5ef8b","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"579b3ac8-922b-4651-812b-99ea12d4f2ff","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"51549d7d-1219-45e3-8e38-c2e690b0bab2","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"677cf59a-f79a-4bfd-9bfd-56062d2292cd","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5d5a7f81-4128-49f3-a080-42fa2c32187f","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4b7af07e-f690-441a-9e70-0e553bddb77a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d0f1551c-35a3-4c33-af0e-ec3b21edbb32","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6111d5d7-6cb5-4a59-b228-96a2d0f6ad88","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"30a49a7f-81ec-457b-9380-6f7afd733651","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"abfae4d3-9256-41f5-87fb-a85813b26a75","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5796d7f3-25f6-4120-a152-def0f54b298c","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"219f454a-2bd8-47c0-a40e-f8b0e3b75eb6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8df24d1a-eaf8-4c19-a871-a0e5f2aab6f8","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b244057b-e407-4290-9745-6d2b4fcc9bbc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1f065525-c7b4-47f3-a4fe-3ab79caf64f7","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0f2e4a78-b0eb-4722-8595-057397bfaf16","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dc6df76c-243c-4cbc-b1b2-36fbacb6abd7","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8ba8dba1-05a1-4480-b716-280fadfafee7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cd213d7c-f169-4d65-a4eb-04de43717228","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"48856fe6-52b5-498b-b7d7-a9c7f01ecb8c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1e957b75-2678-4321-88f1-6fcba3d49111","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8c52160a-ad13-43d7-81e7-8633edd8cd05","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fc2306d6-9ab4-45c5-b9a1-c38c39e226ae","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d16dae9a-9c56-43fc-b5a8-21d3dbf10de0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bd97f4a6-3820-4ca4-b96e-2c749c79d2ba","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3b97da91-0e88-4297-80f1-3eaec05f9fd1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1013e817-1b22-4518-8163-57206f442924","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b9eb9702-c55a-42d7-bccd-7947f275b5c8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4cdba18c-11ac-4e93-bfda-b05a8ab430d1","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cd2e03e8-85da-410c-a599-989c09620afa","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"723d7952-8e53-43b2-89c2-7c210d2da24c","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"57fc05a3-5a5c-41b0-89d3-5b6bd7069064","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a1cdb413-99ff-408b-b06a-6196c3e0ba6c","Key":24.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"294ac78a-7cdd-44ae-a978-7751f07cb942","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ed836a8e-b7ea-46aa-a0e0-7d863fe5f6b6","Key":25.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"99ca9deb-7b73-4c8e-b368-9f3faf530f19","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e228283c-25a6-4522-aeda-4cccf880538a","Key":26.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98d39ac9-1afd-406a-8d4f-bfa5739382db","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ecc587b9-583a-450c-b4bf-25ef1478f71e","Key":27.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a3a4a332-a52c-46a1-aab4-4d82e438b253","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"56afff68-dd3f-4427-8937-033b11f8863b","Key":28.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da4324ea-1b78-4649-91c0-4d768b91bf2c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d2523599-804d-4702-98ce-f78a77458b90","Key":29.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7c914e17-e619-459e-a9a3-097e75bb6f60","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8e464781-2a5a-42ff-839e-6b562c988ff9","Key":30.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"157d0be3-80f3-470a-bf38-595c76fc0a4d","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b0275b23-885c-4805-bec4-641afc713be6","Key":31.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fb47c453-0fe1-45e8-9213-7388990dcd6c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe155911-ae3c-49b6-b977-5c5c9f498b99","Key":32.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"67f761a9-1724-4874-82af-ba1b223b77fe","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"013f4da9-24bf-45df-89d9-21331ae07a82","Key":33.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89941706-bef4-40c7-8c7e-3f4dd6f85f3f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1197f0e4-20a1-4c6f-887f-e35048d72740","Key":34.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9a6d7be9-6553-4616-8053-34eb47bc76c4","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"38c00976-44d7-4ebb-8303-8c21744a3827","Key":35.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"975aaec2-858e-4c40-984b-a204733e7633","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"37000368-485f-4a12-bf9c-a5157081b98c","Key":36.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"10e7d37d-dbbf-44d0-8e76-b4020622f0cf","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"81f3f930-fe01-4679-a78e-56fb46eb67d0","Key":37.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d806b364-c405-4804-9847-9ca3c28aa029","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7ebca2e0-4590-4a56-a228-799f8acb6546","Key":38.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e681495d-ff0c-4060-8e83-fde188a76c80","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2a5325a4-d789-4775-9e12-5a71fb0d2dcc","Key":39.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d938e0af-7893-42b1-9521-11c8af862113","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2290148f-ff6c-4204-8174-b3883f763fee","Key":40.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"03f4a695-80cd-4d03-b705-60f039dd8c10","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9b9db25e-82f7-49a9-9bad-74806de1256c","Key":41.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09debf53-7a56-48d7-9eb5-0b0655ab84e8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"73eba4ea-98a3-498c-aa87-c7883afc61cf","Key":42.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"571fba72-a2d0-48ed-ab8f-3bc08ed8fded","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1617d50c-b39b-464d-adc6-530b72b3b2c9","Key":43.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5553b08f-c70d-4b99-8bd8-e9b72e533ac3","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ff36351b-a953-4eea-8c54-3f3141f9e2b9","Key":44.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1585c5bb-adcf-44e3-9146-7e44ffd31624","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"771bcdda-ef5c-4b44-a676-2e2b82c86be7","Key":45.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13c94bc8-4a98-4ff1-bfb4-e6f73d034a51","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f10ad060-ae64-4b26-a441-3cec60ec69b4","Key":46.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ebd624a-67af-4a35-93b0-0eb1b26cdba8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b0675924-56ac-4948-85e5-02a38cbc7f8a","Key":47.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e98813a-fed4-4ec8-8cc0-9c0b4f636304","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e7ce1dfc-77ba-48df-b619-342f79c6c1fb","Key":48.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a03e1007-06fd-4c14-b8f3-9ed680538e3f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8f0ae3fe-442c-44f5-9c88-4fbae8d58c16","Key":49.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"30a906cf-cf0a-4286-917a-e67b2ccf33d8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b5c37ce0-3255-4853-bf8f-1b0e3e7a6edd","Key":50.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7e8e8d80-90ce-453f-a98b-9fb09d52bb7a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d6144863-7bce-41b7-9af1-caa8f0933f4b","Key":51.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"abf9e5e8-383a-498d-8968-db70a581109b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"39748b13-258e-47bd-aee3-9473a675dffe","Key":52.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"deae34b7-1170-40e5-8541-bacf5af61992","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4a61ad3c-9ce4-4e06-afc6-b4f17a526788","Key":53.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"448311c4-f878-4012-a2ed-6e6900c27797","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f4a0b2d7-de94-48b7-9076-c28c9ca069b4","Key":54.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d97d54e4-a1d1-4188-be7b-39eb0466c12c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7b5751f2-d8a3-4c2a-8cf9-3246ea0eb5e7","Key":55.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df6df693-62ac-4b09-b535-731529211d0b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ac056a8a-2c05-4444-8ba8-7b1b01b55e43","Key":56.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a935b18-e03a-4eeb-9a98-6229bf761c56","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bd69aeae-521a-4aca-84ad-ccdb344da320","Key":57.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"def7e603-0bae-4043-8b1f-06f921458c0e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d462bb74-d889-489b-b2c7-159daa53bec0","Key":58.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92e0ef5d-402d-4e6e-8f66-6fdbaef8fe7f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"18e57af5-5a09-4080-9412-f1f065b7a918","Key":59.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a2a31c43-af5b-4288-894e-724c95612c8f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"469a365b-2e8e-41b2-a810-c683caab93fb","Key":60.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7eb0e2d0-9851-4724-8b89-c6a6e1dae5ae","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0983ddeb-753c-44aa-894c-b3bb1fb2e010","Key":61.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1899e1ce-1e6d-4bae-bc91-03cb8158ab8c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d6c9dcb5-93ea-400d-9b2b-7b92432370b5","Key":62.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d19cb9bc-6f8f-40bc-a7d3-1bf6143805a1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b3611276-1eba-4aa7-a61f-d4c72a9d992e","Key":63.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"03eb615e-8ba5-4701-83b5-a567c915bce8","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe936f4b-cc7b-4da1-a590-81a49806c898","Key":64.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2cae4f4-74a7-45f5-8b3d-5441127e306c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f9ecb3fd-ed81-413d-8f0b-3fda8c543498","Key":65.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4b020804-7782-4c51-b7e6-888165fe0817","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"98261f6f-6db8-4e3d-b6b6-e2558a002fc3","Key":66.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aceaf56d-d30c-4732-b09e-453a6ec6cd88","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"15339eeb-8e8c-42c3-b736-f17ec4d05694","Key":67.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9f612fe9-5325-4813-8120-2036d9aadd47","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fcc9802d-c7d5-4c4b-9190-3dd8d8cdfdd7","Key":68.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"75acd56f-9bf6-4566-b9aa-c1de9acc08de","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0dae1c0b-0a16-42f5-ae4b-bc3e9e1deeec","Key":69.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2d308b40-97fd-4852-bbe5-c791547d24cb","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5dd3f564-0bd4-44ff-bd07-70dc08b7476d","Key":70.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e879420-24ae-4e08-8310-697e5f98ffc3","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f00bb7a3-90f4-4140-ad7f-88af716b044c","Key":71.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a54cf1f7-5c43-4698-922c-3102431a3d65","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f42d94a2-d10e-4ff9-b833-21d4d93b2842","Key":72.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2bb55422-76ae-4098-917a-0349e88f4837","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2d13099d-0564-4656-8a37-c4816a9ecd9e","Key":73.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be499831-c9f9-417a-ae38-05cea0f0a43c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bb724103-2753-4ddf-9374-ced6873f84fa","Key":74.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c80badf3-1d1f-41c7-bf9b-7789b94acfed","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"583bb954-b8b9-43b1-b76e-9cf6babbee43","Key":75.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"011f7747-6fab-4441-aca9-2a349433942b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c7175dd7-bacd-4f8c-896f-3ab08ee549d6","Key":76.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0345f8b8-3b5f-481c-aaec-e921f35d063b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c439439f-e885-4d32-924f-175f2e4dafc3","Key":77.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bdce4587-a759-4ec4-a22a-04d270816b82","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4bea0642-5b66-4bbe-a4d0-77114945e904","Key":78.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"217b9e68-a061-45ba-b484-35d5ca21848f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"25239318-6a29-4213-9b86-c1d9989526c6","Key":79.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"50ed66d8-be8f-44ce-a0a1-a2fb05885a62","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"45561d99-98c6-4e82-9b90-7e380292ab6d","Key":80.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6af355f8-ce5d-4fb5-87bd-b7bb9671504b","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a677d3d6-3416-4b26-82c2-5bb529b583ca","Key":81.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fdd3c097-d238-414c-ae13-e0023d28307c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"182f2cd0-1d5e-41a8-b8b3-182dfc0beaa0","Key":82.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"96ee1299-525a-42ce-a31e-8e4df1be19e7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"52384a0b-20cb-4b83-9042-48ed7f9c8dd5","Key":83.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3e32160-f551-4359-93c6-fdd912b25850","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4f06d37a-cfcf-4af6-bf5b-5934ebe4ac64","Key":84.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b112e027-ec3f-4f49-8e2c-e3e73028aa85","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cab71597-d8ee-442d-93ab-7a82d160a445","Key":85.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bc38478d-ba45-44e0-9364-8ce1fbfd203c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"48e2f7a9-c25a-49ae-be1e-573b4f3221a7","Key":86.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0922abb1-8249-46f4-831b-5d74db417733","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fbb6a025-73fa-41c5-951d-8764f7110548","Key":87.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"46c432c6-44e0-484a-92d5-85bee960fae2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f8648044-af45-4190-8a45-d22117ef66f8","Key":88.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7f54e274-c658-4972-a47b-da104582b58f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ca4ea5fe-ab07-4633-9ace-cc39f8c60752","Key":89.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9dce5a2c-b641-4293-a41f-34829fcbd9fc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"99409b6a-7f60-4423-a832-e112d0a5adad","Key":90.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a233a673-59ea-445c-ae6b-c4ed845ab4e2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0f3a4ccf-833a-4018-ac8f-068cba17d399","Key":91.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8b4d23a9-cbf4-4722-887d-87aef8a945cb","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ec3b2fba-4048-4172-92b3-18faf07f24ce","Key":92.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dfb7e2d6-2a6f-4ebe-b8a3-c59d6d0c7b71","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b579a8c9-b5b2-4f14-a38a-3bf5febeabb3","Key":93.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cc661030-cd16-4311-b152-1d89515d023f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"620ec5c3-d8c8-48e1-8dcf-b0eaadff7fbc","Key":94.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea669494-529f-4d12-aeb3-5d927063bab0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"764d1d59-f07b-481e-9136-0fac32758ee0","Key":95.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a848be0-4b63-4d18-a8f8-ffacb0077e2d","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fff9a6cb-cc11-4154-ac67-979f9c9ed48f","Key":96.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0d5c2858-96cb-428b-9a3c-56f0ac39ec6f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"01fc5769-658f-4df1-9830-aaf039ad7865","Key":97.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df7ca7bd-867a-4da8-99e9-0926b5672f8e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"df3b74e0-6012-455b-b42b-719e78584365","Key":98.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"efd7eed0-7799-4767-a6eb-f34eb7c7552a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"217443d0-c977-4637-9b2d-d8391c56e9b4","Key":99.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b05b965-ba9b-4e19-a511-551aa5568204","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"63407fad-f3a4-423a-b828-ea2057c163b1","Key":100.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05ef1293-8669-46c2-9c33-7e1d370ea367","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5da342a9-68f2-46a3-ba58-63fa41701b8b","Key":101.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2878545b-c02c-4fab-9095-b97aa8e1ff13","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b2050d13-a90a-45eb-8042-56df0c103820","Key":102.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9f197af8-c7cd-4f7b-aabf-f39fc0c15b4e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bb00afe2-dc90-4041-8624-d94eb9142aeb","Key":103.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"49d11fb7-cf15-4daa-ab4f-4bef80bb28e9","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d951bef4-57ca-4728-9114-36a0e424f5a6","Key":104.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1a67b4ff-6cef-4db8-a641-9df0a938461f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f4cbeb5f-80d1-43bb-abfb-166a337727e3","Key":105.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86dea30f-6292-4f3a-81ed-49f0d3926c2c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4a68d18b-e2ff-4f22-b7ac-108762c6fcca","Key":106.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"48994cfd-fc67-4345-b364-24f646c9fb34","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"367a2ef0-37c6-442f-8f81-5abea11b18af","Key":107.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c37b392d-afa0-4f32-9779-c73d8dbdf03f","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a9f7e600-6d4d-4ae7-82e6-aa3fa2ceabc5","Key":108.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"035b6f59-46cd-47d4-aec1-a9732de13117","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5aa420f4-1a59-4e2d-9e32-d82fcfe88654","Key":109.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"91789560-2dc7-43e8-927f-ffeab85969f0","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"703e380f-6a9d-45fd-930a-e7fd222608cd","Key":110.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a3889ad9-3b72-4c2b-9548-0066c24ac606","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"361c2568-5763-404c-9f46-22c1a3e2e59c","Key":111.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"03751b40-8974-445c-b08a-e8dd2d34bdf6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"95c264fc-55f5-49ee-b378-bcfed0cb08d5","Key":112.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"af828ab9-eb9a-4537-b733-47af92d4c722","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4be5a048-89c9-4d57-9b40-f7dd00c5a563","Key":113.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"910f0970-def3-4721-bf70-032ed7c080da","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d2c97bd1-5550-46bf-8842-7ae304d9ddb2","Key":114.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d8b84a2-5b98-42d1-b3d7-5449f7f8cd40","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3db0b0be-3fff-48b4-95b1-f427721d96e8","Key":115.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13557b26-c7d7-4907-88dd-58db0f133162","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"59922369-e751-4fdb-94ad-a8b942fddecc","Key":116.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1b7d7ee9-2a28-41e9-b8fa-2d92f58dfc7c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2f10b8ea-a6cb-46ae-bbf8-ada50b939446","Key":117.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"866f6163-c94e-48f9-bd36-e9294323118c","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b3e8fa41-c04c-4e80-a9fa-b4be1245e60e","Key":118.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"190787a3-9018-415c-9feb-bc7c5d625c50","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0d6cd44d-d257-41e7-9c24-2b420e0a26c9","Key":119.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"acca8345-17a0-46b8-b675-b5d67222a874","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c7217f4c-8e7b-4b18-847a-d2e2d04148ba","Key":120.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c59bc0a7-e029-4490-b1d3-f17e2542f275","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1104fb02-6455-4d6b-80a0-10f2a1e825d7","Key":121.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1e1ecbdc-1db2-4d4d-82d5-e92d49d81087","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f7fbf826-0758-4d7c-a16c-0410e6c519b8","Key":122.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c5a70f69-abd4-4636-a482-ff66598b43e7","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"07aa07dd-ae24-480a-9721-b18eb26a48c3","Key":123.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"77ab0763-ef57-4944-9e38-b6b59e7d0bce","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4e65bacd-6f7c-4f4b-b4ea-47324c113795","Key":124.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8a43c411-98e7-4c35-a032-2f9912b2f4df","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ddddb15b-6ef3-4317-9c08-6ee90ab2e20c","Key":125.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86108a64-e14c-4bc9-b562-70faa4df0ff1","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9ced617d-dbfa-4a8d-b0f1-dad36e60779a","Key":126.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"013a1320-cebb-4434-be32-685518de6b90","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0f51437a-08a3-43ba-98f5-051e5ce9ce19","Key":127.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b4f5be0-4525-48d4-a885-4c9ad60de4f2","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6c500c9b-c032-43b8-ac06-4258206380bb","Key":128.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"216946ac-06ba-4adb-b953-f037eef716cd","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c2e86bc1-c2b7-4a85-b1e5-25e6d10203f5","Key":129.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7bbc69a7-c6e1-474f-bca7-5bd3b80bb097","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7474509d-761a-4404-a9c9-4e86945458fd","Key":130.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ca066ab-bef2-42c8-aef7-f5faa877683a","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bbf75b07-6ec2-42a5-84fc-ccd0e891111c","Key":131.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c7bc8e96-6672-4ed8-ad22-37f4c2579e26","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"88e337a4-709e-4d9e-9311-93236d1d5618","Key":132.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86e19f0e-56e2-48df-963d-fc49554edc08","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ed37b8c9-16c0-4585-aeac-d90b506e3236","Key":133.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"527c29e3-3e85-40a4-a824-3ad4c07260cc","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"776c0989-f8ee-410a-860e-2d8e901d57d6","Key":134.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6c73f310-7939-4745-acf1-680e6c2d1b2e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2cabd2d4-3c28-47a6-85f7-3424f9ba1836","Key":135.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df1d5c14-1fb3-4117-99aa-a98951a2d08e","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"27a9aba4-6504-46c9-85ad-8d6ca5241bf8","Key":136.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f8a307d4-9ac7-4776-bffc-9b7ac9dbc3a6","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"36da8924-3e27-4cba-87af-703b13a254fc","Key":137.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bb75e9f6-84c2-4b2e-b6d3-3c3e8696c4c4","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": true,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 256,
+    "yorigin": 256,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_level1_necromancer_death","path":"sprites/spr_level1_necromancer_death/spr_level1_necromancer_death.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"301dae48-1ddc-4e48-b118-1c2e9449ee6f","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Necromancer",
+    "path": "folders/Sprites/Level 1/Boss/Necromancer.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_level1_necromancer_death",
+  "tags": [],
+  "resourceType": "GMSprite",
 }

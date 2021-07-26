@@ -3,7 +3,7 @@
 
 if ( sprite_index == spr_player_altarDamaged){
 	
-	if (image_index > image_number-1 ){
+	if (image_index >= image_number-1 ){
 	
 		sprite_index = spr_player_altar;
 		

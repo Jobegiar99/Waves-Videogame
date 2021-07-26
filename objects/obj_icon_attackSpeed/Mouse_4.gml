@@ -16,16 +16,32 @@ if ( button_icon_selected ){
 	obj_button_purchase.button_purchase_speed     = true;
 	obj_button_purchase.button_purchase_split     = false;
 	
-	obj_icon_damage.image_alpha = 1;
-	obj_icon_knockback.image_alpha = 1;
+	if(variable_instance_get(inst_2FC9ABA2,"attack_level") < 5)
+		obj_icon_damage.image_alpha = 1;
+		
+	if(variable_instance_get(inst_2FC9ABA2,"knockback_level") < 5)
+		obj_icon_knockback.image_alpha = 1;
+		
+	
+		
 	obj_icon_heal.image_alpha = 1;
-	obj_icon_split.image_alpha = 1;
-	obj_icon_bump.image_alpha = 1;
-	obj_icon_secondProjectile.image_alpha = 1;
-	obj_icon_aura.image_alpha = 1;
-	obj_icon_spawn.image_alpha = 1;
+	if(!variable_instance_get(inst_2FC9ABA2,"bumpProjectile"))
+		obj_icon_bump.image_alpha = 1;
+		
+	if(!variable_instance_get(inst_2FC9ABA2,"double"))
+		obj_icon_secondProjectile.image_alpha = 1;
+		
+	if(!variable_instance_get(inst_2FC9ABA2,"aura"))
+		obj_icon_aura.image_alpha = 1;
+		
+	if(!variable_instance_get(inst_2FC9ABA2,"spawnProjectile"))
+		obj_icon_spawn.image_alpha = 1;
+		
+	if(!variable_instance_get(inst_2FC9ABA2,"splitProjectile"))
+		obj_icon_split.image_alpha = 1;
+		
 	scr_show_stars( 6 );
-	scr_show_stars( obj_stat_control.attack_speed_level );
+	scr_show_stars( variable_instance_get(inst_2FC9ABA2,"attack_speed_level") );
 
 
 	

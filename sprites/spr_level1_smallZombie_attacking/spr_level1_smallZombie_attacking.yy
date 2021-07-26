@@ -1,136 +1,91 @@
 {
-    "id": "35fbb95d-2682-429c-b7ac-7535323bcf7a",
-    "modelName": "GMSprite",
-    "mvc": "1.12",
-    "name": "spr_level1_smallZombie_attacking",
-    "For3D": false,
-    "HTile": false,
-    "VTile": false,
-    "bbox_bottom": 15,
-    "bbox_left": 3,
-    "bbox_right": 13,
-    "bbox_top": 4,
-    "bboxmode": 0,
-    "colkind": 0,
-    "coltolerance": 0,
-    "edgeFiltering": false,
-    "frames": [
-        {
-            "id": "76861049-5609-4a81-8746-18c1beec35fb",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "35fbb95d-2682-429c-b7ac-7535323bcf7a",
-            "compositeImage": {
-                "id": "fee3e6e0-4991-4202-a8c9-68ae142ea6f3",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "76861049-5609-4a81-8746-18c1beec35fb",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "edce4c2d-d67d-41fa-979d-194adccedf65",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "76861049-5609-4a81-8746-18c1beec35fb",
-                    "LayerId": "0c993ad1-52a2-4251-ae99-68e0de1d6e70"
-                }
-            ]
-        },
-        {
-            "id": "e22c5e3c-aaf6-4f71-aa69-025c9d57357f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "35fbb95d-2682-429c-b7ac-7535323bcf7a",
-            "compositeImage": {
-                "id": "e82cbeba-c035-4102-876b-bef385f2c76c",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "e22c5e3c-aaf6-4f71-aa69-025c9d57357f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "7d322ce8-8fed-4fe5-9c4c-69887b761d02",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "e22c5e3c-aaf6-4f71-aa69-025c9d57357f",
-                    "LayerId": "0c993ad1-52a2-4251-ae99-68e0de1d6e70"
-                }
-            ]
-        },
-        {
-            "id": "aa47e91a-9c42-4321-bf96-eeb0e637e576",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "35fbb95d-2682-429c-b7ac-7535323bcf7a",
-            "compositeImage": {
-                "id": "27c484ae-79ae-4b84-8110-ddaa86963998",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "aa47e91a-9c42-4321-bf96-eeb0e637e576",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "e2fbe5ce-20a6-4063-8b31-0024b827b9af",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "aa47e91a-9c42-4321-bf96-eeb0e637e576",
-                    "LayerId": "0c993ad1-52a2-4251-ae99-68e0de1d6e70"
-                }
-            ]
-        },
-        {
-            "id": "a7d45407-05d4-4d74-94bc-4e5e33bebecf",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "35fbb95d-2682-429c-b7ac-7535323bcf7a",
-            "compositeImage": {
-                "id": "7c4243c6-f5b3-4364-ba5e-891c29c8d03f",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "a7d45407-05d4-4d74-94bc-4e5e33bebecf",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "bc533669-d8a9-4801-8eaa-63718b5eb719",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "a7d45407-05d4-4d74-94bc-4e5e33bebecf",
-                    "LayerId": "0c993ad1-52a2-4251-ae99-68e0de1d6e70"
-                }
-            ]
-        }
-    ],
-    "gridX": 0,
-    "gridY": 0,
-    "height": 16,
-    "layers": [
-        {
-            "id": "0c993ad1-52a2-4251-ae99-68e0de1d6e70",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "35fbb95d-2682-429c-b7ac-7535323bcf7a",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "default",
-            "opacity": 100,
-            "visible": true
-        }
-    ],
-    "origin": 9,
-    "originLocked": true,
-    "playbackSpeed": 9,
+  "bboxMode": 0,
+  "collisionKind": 4,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 3,
+  "bbox_right": 13,
+  "bbox_top": 4,
+  "bbox_bottom": 15,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 16,
+  "height": 16,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"76861049-5609-4a81-8746-18c1beec35fb","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"76861049-5609-4a81-8746-18c1beec35fb","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":{"name":"0c993ad1-52a2-4251-ae99-68e0de1d6e70","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_smallZombie_attacking","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"76861049-5609-4a81-8746-18c1beec35fb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e22c5e3c-aaf6-4f71-aa69-025c9d57357f","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e22c5e3c-aaf6-4f71-aa69-025c9d57357f","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":{"name":"0c993ad1-52a2-4251-ae99-68e0de1d6e70","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_smallZombie_attacking","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"e22c5e3c-aaf6-4f71-aa69-025c9d57357f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aa47e91a-9c42-4321-bf96-eeb0e637e576","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aa47e91a-9c42-4321-bf96-eeb0e637e576","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":{"name":"0c993ad1-52a2-4251-ae99-68e0de1d6e70","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_smallZombie_attacking","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"aa47e91a-9c42-4321-bf96-eeb0e637e576","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a7d45407-05d4-4d74-94bc-4e5e33bebecf","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a7d45407-05d4-4d74-94bc-4e5e33bebecf","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"LayerId":{"name":"0c993ad1-52a2-4251-ae99-68e0de1d6e70","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level1_smallZombie_attacking","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","name":"a7d45407-05d4-4d74-94bc-4e5e33bebecf","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_level1_smallZombie_attacking","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 9.0,
     "playbackSpeedType": 0,
-    "premultiplyAlpha": false,
-    "sepmasks": true,
-    "swatchColours": null,
-    "swfPrecision": 2.525,
-    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
-    "type": 0,
-    "width": 16,
-    "xorig": 9,
-    "yorig": 9
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 4.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"cc87c8a5-1ed8-4c26-aa88-2b0c78268f03","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"76861049-5609-4a81-8746-18c1beec35fb","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"29f4da60-bf44-4c9e-a36c-e50f2f8453d8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e22c5e3c-aaf6-4f71-aa69-025c9d57357f","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"532feb00-847b-4781-82cf-70a8a5a6a986","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa47e91a-9c42-4321-bf96-eeb0e637e576","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cd7a7acb-af86-4a8b-845d-4fab8481af46","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a7d45407-05d4-4d74-94bc-4e5e33bebecf","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": true,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 9,
+    "yorigin": 9,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_level1_smallZombie_attacking","path":"sprites/spr_level1_smallZombie_attacking/spr_level1_smallZombie_attacking.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0c993ad1-52a2-4251-ae99-68e0de1d6e70","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "small zombie",
+    "path": "folders/Sprites/Level 1/Enemies/small zombie.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_level1_smallZombie_attacking",
+  "tags": [],
+  "resourceType": "GMSprite",
 }

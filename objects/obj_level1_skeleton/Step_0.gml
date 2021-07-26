@@ -27,7 +27,7 @@ if ( obj_level1_skeleton_logic_alive ){
 		if ( sprite_index != spr_level1_skeleton_attacking )
 			sprite_index = spr_level1_skeleton_attacking;
 	
-		if ( image_index > image_number-1 ){
+		if ( image_index >= image_number-1 ){
 		
 			if (! obj_level1_skeleton_logic_dealDamage){
 			
@@ -44,7 +44,7 @@ if ( obj_level1_skeleton_logic_alive ){
 	}
 }else{
 	
-	if ( image_index > image_number -1){
+	if ( image_index >= image_number -1){
 		
 		instance_destroy();
 		
